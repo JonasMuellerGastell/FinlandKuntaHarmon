@@ -1,0 +1,819 @@
+Year,NameSource,NameTarget,codeSource,codeTarget,TotalDist,PopSource
+1882,Heinävesi,Enonkoski,90.0,46.0,250.0,7515.0
+1882,Kerimäki,Enonkoski,246.0,46.0,250.0,10927.0
+1883,Pielavesi,Kiuruvesi,595.0,263.0,1208.0,14870.0
+1885,Piikkiö,Kuusisto,602.0,307.0,430.0,5613.0
+1887,Impilahti,Suonlahti,147.0,757.0,1132.0,10278.0
+1887,Kaavi,Kuusjärvi,204.0,309.0,658.0,8909.0
+1887,Pertteli,Kuusjoki,587.0,308.0,1545.0,3781.0
+1887,Ruskeala,Suonlahti,703.0,757.0,1132.0,4371.0
+1887,Virolahti,Miehikkälä,935.0,489.0,2950.0,10072.0
+1891,Närpiö,Ylimarkku,545.0,974.0,3246.0,11001.0
+1892,Pilavesi,Keitele,595.0,239.0,4005.0,14465.0
+1897,Rantasalmi,Kangaslampi,681.0,212.0,1247.0,9968.0
+1897,Soanlahti,Seiskari,757.0,745.0,645.0,2649.0
+1900,Karstula,Pylkönmäki,226.0,633.0,632.0,9079.0
+1900,Saarijärvi,Pylkönmäki,729.0,633.0,632.0,11887.0
+1902,Ilomantsi,Kovero,146.0,856.0,3753.0,14162.0
+1903,Muhos,Ylikiiminki,494.0,973.0,260.0,4655.0
+1903,Sakkola,Metsäpirtti,731.0,488.0,3937.0,9680.0
+1904,Joroinen,Jäppilä,171.0,184.0,432.0,8128.0
+1904,Jyväskylän mlk,Toivakka,180.0,850.0,574.0,10463.0
+1904,Marttila,Karinainen,480.0,219.0,1559.0,4217.0
+1905,Kivennapa,Terijoki,264.0,843.0,2713.0,14765.0
+1905,Pielavesi,Maaninka,595.0,476.0,1084.0,11564.0
+1906,Hollola,Lahti,98.0,398.0,2961.0,13162.0
+1906,Joroinen,Jäppilä,171.0,184.0,18.0,8051.0
+1906,Joutseno,Nuijamaa,173.0,539.0,667.0,4404.0
+1906,Jääski,Nuijamaa,185.0,539.0,666.0,8804.0
+1906,Lappee,Nuijamaa,404.0,539.0,666.0,13729.0
+1906,Pieksämäki,Virtasalmi,593.0,937.0,2110.0,12659.0
+1906,Pulkkila,Piippola,617.0,603.0,499.0,2625.0
+1906,Urjala,Kylmäkoski,887.0,310.0,309.0,10417.0
+1906,Viipurin mlk,Nuijamaa,930.0,539.0,2000.0,25044.0
+1907,Nilsiä,Rautavaara,534.0,687.0,870.0,19502.0
+1907,Nilsiä,Muuruvesi,534.0,502.0,4332.0,19502.0
+1907,Säräisniemi,Vuolijoki,785.0,940.0,1030.0,3993.0
+1908,Keuruu,Vilppula,249.0,933.0,2082.0,11097.0
+1908,Nurmes mlk,Valtimo,542.0,911.0,3224.0,12376.0
+1908,Pieksämäki,Jäppilä,593.0,184.0,605.0,10645.0
+1908,Ruovesi,Vilppula,702.0,933.0,3273.0,13932.0
+1909,Jyväskylän mlk,Toivakka,850.0,180.0,209.0,633.0
+1909,Korpilahti,Toivakka,277.0,850.0,365.0,10069.0
+1909,Korpilahti,Toivakka,850.0,277.0,365.0,633.0
+1909,Laukaa,Äänekoski,410.0,992.0,3376.0,11911.0
+1909,Pieksämäki,Virtasalmi,593.0,937.0,1033.0,10003.0
+1909,Piippola,Pyhäntä,603.0,630.0,1769.0,3671.0
+1909,Saarijärvi,Äänekoski,729.0,992.0,1481.0,11108.0
+1910,Bromarvi,Hangon mlk,34.0,995.0,1665.0,3993.0
+1910,Hanko,Hangon mlk,78.0,995.0,926.0,5896.0
+1910,Impilahti,Salmi,147.0,733.0,1105.0,12408.0
+1910,Kuhmalahti,Sahalahti,289.0,730.0,323.0,1899.0
+1910,Kymi,Haapasaari,311.0,70.0,334.0,14265.0
+1910,Nilsiä,Varpaisjärvi,534.0,916.0,4486.0,15490.0
+1910,Sahalahti,Kuhmalahti,730.0,289.0,664.0,2498.0
+1911,Orivesi,Juupajoki,562.0,177.0,3452.0,9617.0
+1911,Oulujoki,Oulu,565.0,564.0,755.0,6618.0
+1911,Vehkalahti,Kymi,917.0,311.0,270.0,10985.0
+1911,Vehkalahti,Sippola,917.0,754.0,735.0,10985.0
+1912,Loimaan mlk,Ypäjä,431.0,981.0,1504.0,10646.0
+1912,Oulujoki,Oulu,565.0,564.0,755.0,6603.0
+1912,Prunkkala,Tarvasjoki,19.0,838.0,181.0,1340.0
+1912,Saloinen,Salo,735.0,734.0,623.0,1748.0
+1912,Vehkalahti,Sippola,917.0,754.0,735.0,10010.0
+1913,Jyväskylän mlk,Jyväskylä,180.0,179.0,372.0,12761.0
+1913,Kivijärvi,Kinnula,265.0,256.0,1943.0,6086.0
+1913,Ylikiiminki,Kiiminki,973.0,255.0,251.0,3006.0
+1913,Ylitornio,Turtola,976.0,854.0,312.0,5324.0
+1914,Tampere,Messukylä,837.0,486.0,626.0,47203.0
+1914,Tampere,Pirkkala,837.0,604.0,1991.0,47203.0
+1914,Uskela,Salo kla,888.0,734.0,1417.0,4979.0
+1914,Valkjärvi,Vuoksela,910.0,938.0,1668.0,9091.0
+1915,Kajaanin mlk,Vuolijoki,206.0,940.0,578.0,3925.0
+1915,Kontiolahti,Pielisensuu,276.0,596.0,3685.0,11002.0
+1915,Loimaan mlk,Mellilä,431.0,482.0,1932.0,10744.0
+1915,Vuolijoki,Kajaanin mlk,940.0,206.0,578.0,1218.0
+1916,Nurmijärvi,Hyvinkään mlk,543.0,107.0,4874.0,12942.0
+1917,Hausjärvi,Hyvinkään mlk,86.0,107.0,2500.0,14913.0
+1917,Huittinen,Keikyä,102.0,238.0,1900.0,10465.0
+1917,Ikaalisten mlk,Parkano,144.0,581.0,448.0,12863.0
+1917,Pudasjärvi,Ranua,615.0,683.0,1611.0,11396.0
+1917,Pöytyä,Aura,636.0,19.0,722.0,5284.0
+1917,Rovaniemi,Ranua,698.0,683.0,304.0,13082.0
+1917,Simo,Ranua,751.0,683.0,805.0,4362.0
+1917,Sodankylä,Pelkosenniemi,758.0,583.0,1170.0,6651.0
+1917,Sodankylä,Savukoski,758.0,742.0,797.0,6651.0
+1917,Uusikirkko,Laitila,897.0,400.0,289.0,16951.0
+1918,Heinävesi,Enonkoski,90.0,46.0,138.0,8947.0
+1918,Heinävesi,Savonranta,90.0,741.0,301.0,8947.0
+1918,Messukylä,Tampere,486.0,837.0,1685.0,5295.0
+1918,Parkano,Kihniö,581.0,250.0,2604.0,9143.0
+1918,Sortavalan mlk,Impilahti,764.0,147.0,556.0,23542.0
+1918,Sortavalan mlk,Harlu,764.0,80.0,3509.0,23542.0
+1919,Antrea,Vuoksenranta,13.0,939.0,3577.0,13053.0
+1919,Iitti,Kuusankoski,142.0,306.0,3622.0,13504.0
+1919,Valkeala,Kuusankoski,909.0,306.0,7680.0,21969.0
+1920,Korpilahti,Muurame,277.0,500.0,2736.0,9970.0
+1920,Kuopion mlk,Vehmersalmi,298.0,919.0,3999.0,17918.0
+1920,Muola,Vuoksela,497.0,938.0,598.0,18163.0
+1920,Sakkola,Vuoksela,731.0,938.0,1284.0,11039.0
+1920,Tammela,Forssa,834.0,61.0,7363.0,15529.0
+1920,Valkeala,Kuusankoski,909.0,306.0,1221.0,14096.0
+1921,Helsingin mlk,Huopalahti,92.0,104.0,156.0,12272.0
+1921,Helsingin mlk,Kulosari,92.0,294.0,107.0,12272.0
+1921,Helsingin mlk,Oulunkylä,92.0,566.0,553.0,12272.0
+1921,Ii,Kuivaniemi,139.0,292.0,583.0,8037.0
+1921,Iisalmen mlk,Vieremä,141.0,925.0,6060.0,23955.0
+1921,Ikaalisten mlk,Hämeenkyrö,144.0,108.0,106.0,12456.0
+1921,Kaavi,Säyneinen,204.0,786.0,2583.0,9584.0
+1921,Kaavi,Kuusjärvi,204.0,309.0,173.0,9584.0
+1921,Pirkkala,Pohjois_Pirkkala,604.0,536.0,10083.0,11791.0
+1921,Rautalampi,Konnevesi,686.0,275.0,4830.0,12177.0
+1921,Reisjärvi,Sievi,691.0,746.0,62.0,4388.0
+1921,Ruovesi,Vilppula,702.0,933.0,13.0,11309.0
+1921,Säkkijärvi,Vahviala,782.0,907.0,592.0,13234.0
+1921,Säräisniemi,Puolanka,785.0,620.0,27.0,3651.0
+1921,Vesilahti,Etelä_Pirkkala,922.0,604.0,126.0,6939.0
+1921,Viipuri mlk,Vahviala,930.0,907.0,4134.0,44686.0
+1921,Vilppula,Mänttä,933.0,506.0,2672.0,14266.0
+1922,Hausjärvi,Riihimäen kla,86.0,694.0,7081.0,13495.0
+1922,Hämeenkyrö,Mouhijärvi,108.0,493.0,78.0,8876.0
+1922,Janakkala,Riihimäen kla,165.0,694.0,313.0,8111.0
+1922,Kerimäki,Punkaharju,246.0,618.0,3441.0,12186.0
+1922,Lappee,Vahviala,404.0,907.0,181.0,18532.0
+1922,Loppi,Riihimäen kla,433.0,694.0,69.0,8286.0
+1922,Muuruvesi,Juankoski,502.0,174.0,189.0,5720.0
+1922,Parikkala,Simpele,580.0,752.0,2164.0,17530.0
+1922,Pietarsaaren mlk,Ähtävä,599.0,990.0,20.0,7582.0
+1922,Sääminki,Savonranta,789.0,741.0,15.0,11096.0
+1922,Valkeala,Kouvola,909.0,286.0,3547.0,13177.0
+1923,Anttola,Juva,14.0,178.0,95.0,3077.0
+1923,Keuruu,Ätsäri,249.0,989.0,63.0,8912.0
+1923,Kiihtelysvaara,Pyhäselkä,251.0,632.0,3804.0,8806.0
+1923,Loviisa,Pernaja,434.0,585.0,66.0,2981.0
+1923,Multia,Ätsäri,495.0,989.0,295.0,4168.0
+1923,Muurame,Säynätsalo,500.0,787.0,581.0,3019.0
+1923,Muuruvesi,Juankoski,502.0,174.0,997.0,5518.0
+1923,Sahalahti,Kuhmalahti,730.0,289.0,91.0,1919.0
+1923,Terijoki,Kivennapa,843.0,264.0,319.0,4942.0
+1923,Uusikirkko,Uudenkaupungin mlk,897.0,896.0,436.0,17184.0
+1923,Uusikirkko,Kanneljärvi,897.0,215.0,4320.0,17184.0
+1924,Forssan kla,Koijärvi,61.0,267.0,815.0,8151.0
+1924,Hollola,Lahti,98.0,398.0,1142.0,14086.0
+1924,Jaakkima,Lumivaara,162.0,437.0,5646.0,15831.0
+1924,Kerimäki,Sääminki,246.0,789.0,278.0,8833.0
+1924,Kerimäki,Savonranta,246.0,741.0,58.0,8833.0
+1924,Kiihtelysvaara,Pyhäselkä,251.0,632.0,843.0,4605.0
+1924,Kivennapa,Terijoki,264.0,843.0,2394.0,14821.0
+1924,Konnevesi,Vesanto,275.0,921.0,25.0,4838.0
+1924,Kuopio mlk,Siilinjärvi,298.0,749.0,2686.0,14025.0
+1924,Kuopio mlk,Riistavesi,298.0,695.0,1928.0,14025.0
+1924,Lieto,Tarvasjoki,423.0,838.0,17.0,4638.0
+1924,Maaninka,Siilinjärvi,476.0,749.0,1150.0,7201.0
+1924,Messukylä,Aitolahti,486.0,2.0,804.0,3443.0
+1924,Mouhijärvi,Suodenniemi,493.0,772.0,36.0,4547.0
+1924,Nilsiä,Siilinjärvi,534.0,749.0,938.0,9024.0
+1924,Somero,Somerniemi,761.0,760.0,13.0,8498.0
+1924,Säkkijärvi,Luumäki,782.0,441.0,85.0,12700.0
+1924,Tuusniemi,Riistavesi,857.0,695.0,511.0,7534.0
+1924,Urjala,Koijärvi,887.0,267.0,2008.0,10891.0
+1924,Viipuri mlk,Viipuri,930.0,929.0,13200.0,41717.0
+1924,Viipuri mlk,Vahviala,930.0,907.0,508.0,41717.0
+1925,Alatornio,Tornio,7.0,851.0,150.0,10206.0
+1925,Haapavesi,Nivala,71.0,535.0,69.0,8042.0
+1925,Huopalahti,Helsinki,104.0,91.0,38.0,936.0
+1925,Jämsä,Koskenpää,182.0,282.0,2673.0,14292.0
+1925,Jämsä,Jämsänkoski,182.0,183.0,2283.0,14292.0
+1925,Kaavi,Kuusjärvi,204.0,309.0,10.0,6862.0
+1925,Kanneljärvi,Uusikirkko,215.0,897.0,64.0,4370.0
+1925,Kerimäki,Sääminki,246.0,789.0,401.0,8512.0
+1925,Kuhmoinen,Längelmäki,291.0,443.0,492.0,7162.0
+1925,Kuru,Parkano,303.0,581.0,485.0,5615.0
+1925,Masku,Rusko,481.0,704.0,10.0,1624.0
+1925,Mikkelin mlk,Mikkeli,492.0,491.0,178.0,15375.0
+1925,Nurmijärvi,Hyvinkään mlk,543.0,107.0,55.0,8192.0
+1925,Parikkala,Simpele,580.0,752.0,181.0,15467.0
+1925,Soanlahti,Harlu,757.0,80.0,346.0,2121.0
+1925,Suistamo,Korpiselkä,767.0,278.0,62.0,8940.0
+1925,Säkkijärvi,Ylämaa,782.0,978.0,2817.0,12561.0
+1926,Hartola,Pertunmaa,81.0,588.0,1739.0,8017.0
+1926,Joutsa,Pertunmaa,172.0,588.0,347.0,5996.0
+1926,Jämsä,Koskenpää,182.0,282.0,55.0,9228.0
+1926,Jämsä,Jämsänkoski,182.0,183.0,37.0,9228.0
+1926,Karttula,Tervo,227.0,844.0,2750.0,7220.0
+1926,Kuusamo,Posio,305.0,614.0,3041.0,14631.0
+1926,Lapväärtti,Karijoki,409.0,218.0,876.0,7620.0
+1926,Muola,Äyräpää,497.0,991.0,4239.0,18211.0
+1926,Mäntyharju,Pertunmaa,507.0,588.0,2627.0,13037.0
+1926,Pudasjärvi,Posio,615.0,614.0,72.0,10990.0
+1926,Rautalampi,Tervo,686.0,844.0,200.0,7338.0
+1926,Rautalampi,Vesanto,686.0,921.0,762.0,7338.0
+1926,Rovaniemi,Posio,698.0,614.0,40.0,15155.0
+1926,Salmi,Impilahti,733.0,147.0,1032.0,13557.0
+1926,Taivalkoski,Posio,832.0,614.0,514.0,4236.0
+1926,Vuoksela,Äyräpää,938.0,991.0,983.0,3947.0
+1927,Akaa,Viiala,3.0,928.0,1581.0,5395.0
+1927,Alajärvi,Vimpeli,5.0,934.0,106.0,8966.0
+1927,Kangasala,Orivesi,211.0,562.0,218.0,7383.0
+1927,Kerimäki,Enonkoski,246.0,46.0,171.0,8116.0
+1927,Lammi,Padasjoki,401.0,576.0,108.0,6864.0
+1927,Laukaa,Jyväskylän mlk,410.0,180.0,299.0,8798.0
+1927,Lempäälä,Viiala,418.0,928.0,603.0,5143.0
+1927,Porvoon mlk,Porvoo,613.0,612.0,230.0,16459.0
+1927,Rantasalmi,Enonkoski,681.0,46.0,33.0,9334.0
+1927,Rantasalmi,Kangaslampi,681.0,212.0,60.0,9334.0
+1927,Savonranta,Enonkoski,741.0,46.0,24.0,3521.0
+1927,Somero,Somerniemi,761.0,760.0,488.0,8617.0
+1927,Sääminki,Enonkoski,789.0,46.0,38.0,12310.0
+1927,Tuusniemi,Riistavesi,857.0,695.0,214.0,7039.0
+1927,Vesilahti,Viiala,922.0,928.0,413.0,7171.0
+1928,Alavus,Töysä,10.0,863.0,119.0,11437.0
+1928,Parikkala,Saari,580.0,728.0,4201.0,15303.0
+1928,Rovaniemi,Ranua,698.0,683.0,34.0,16003.0
+1928,Rääkkylä,Tohmajärvi,707.0,848.0,36.0,6554.0
+1928,Soanlahti,Suojärvi,757.0,773.0,1794.0,2700.0
+1928,Soanlahti,Korpiselkä,757.0,278.0,95.0,2700.0
+1928,Vesilahti,Viiala,922.0,928.0,44.0,6690.0
+1928,Viipuri mlk,Viipuri,930.0,929.0,3074.0,29208.0
+1929,Heinävesi,Enonkoski,90.0,46.0,47.0,8800.0
+1929,Joroinen,Virtasalmi,171.0,937.0,10.0,9577.0
+1929,Joroinen,Varkauden kla,171.0,915.0,34.0,9577.0
+1929,Leppävirta,Varkauden kla,420.0,915.0,117.0,15121.0
+1929,Längelmäki,Eräjärvi,443.0,48.0,171.0,4562.0
+1929,Mustio,Karis,710.0,220.0,508.0,520.0
+1929,Parikkala,Saari,580.0,728.0,13.0,11014.0
+1929,Saari,Parikkala,728.0,580.0,399.0,4202.0
+1930,Hausjärvi,Hyvinkään mlk,86.0,107.0,15.0,6709.0
+1930,Helsinki,Turku,91.0,853.0,77.0,221505.0
+1930,Kannus,Kälviä,217.0,315.0,32.0,5921.0
+1930,Kerimäki,Sääminki,246.0,789.0,12.0,7889.0
+1930,Korpilahti,Toivakka,277.0,850.0,296.0,7410.0
+1930,Pieksämäki,Virtasalmi,593.0,937.0,11.0,10644.0
+1930,Pietarsaaren mlk,Pietarsaari,599.0,598.0,57.0,7461.0
+1930,Sauvo,Karuna,738.0,228.0,12.0,3096.0
+1930,Valkeala,Kouvolan kla,909.0,286.0,470.0,9989.0
+1930,Ylistaro,Ylihärmä,975.0,971.0,23.0,10633.0
+1931,Hangon mlk,Bromarv,995.0,34.0,1328.0,2695.0
+1931,Hartola,Joutsa,81.0,172.0,30.0,6387.0
+1931,Ii,Yli-Ii,139.0,972.0,2865.0,8170.0
+1931,Iitti,Kuusankoski,142.0,306.0,643.0,9540.0
+1931,Joroinen,Jäppilä,171.0,184.0,12.0,9494.0
+1931,Kerimäki,Enonkoski,246.0,46.0,11.0,7820.0
+1931,Kiikka,Tyrvää,253.0,861.0,7.0,4256.0
+1931,Kivennapa,Terijoki,264.0,843.0,138.0,11762.0
+1931,Kivijärvi,Kannonkoski,265.0,216.0,1927.0,9388.0
+1931,Maaninka,Lapinlahti,476.0,402.0,107.0,6032.0
+1931,Mikkelin mlk,Mikkeli,492.0,491.0,3649.0,16264.0
+1931,Nurmijärvi,Tuusula,543.0,858.0,134.0,7121.0
+1931,Oulainen,Merijärvi,563.0,483.0,103.0,7137.0
+1931,Savukoski,Pelkosenniemi,742.0,583.0,1088.0,1068.0
+1931,Vanaja,Janakkala,914.0,165.0,108.0,4283.0
+1931,Viitasaari,Kannonkoski,931.0,216.0,998.0,11590.0
+1931,Ylistaro,Isokyrö,975.0,152.0,9.0,10928.0
+1932,Akaa,Viiala,3.0,928.0,70.0,4128.0
+1932,Askainen,Lemu,17.0,419.0,13.0,1190.0
+1932,Halikko,Salo kla,73.0,734.0,10.0,6970.0
+1932,Hämeenlinnan mlk,Hämeenlinna,110.0,109.0,67.0,2945.0
+1932,Joroinen,Varkauden kla,171.0,915.0,2306.0,9285.0
+1932,Koijärvi,Urjala,267.0,887.0,25.0,2927.0
+1932,Kruunupyy,Öja,288.0,997.0,8.0,3723.0
+1932,Lappee,Lappeenranta,404.0,405.0,7104.0,22832.0
+1932,Lappee,Lauritsalan kla,404.0,411.0,173.0,22832.0
+1932,Lapväärtti,Karijoki,409.0,218.0,46.0,6718.0
+1932,Lempäälä,Viiala,418.0,928.0,18.0,4693.0
+1932,Leppävirta,Varkauden kla,420.0,915.0,1870.0,14479.0
+1932,Loimaan mlk,Loimaan kla,431.0,430.0,2236.0,10089.0
+1932,Ruovesi,Vilppula,702.0,933.0,40.0,11212.0
+1932,Saari,Parikkala,728.0,580.0,33.0,3781.0
+1932,Sääminki,Savonlinna,789.0,740.0,2128.0,12688.0
+1932,Tuusniemi,Kaavi,857.0,204.0,36.0,6693.0
+1932,Urjala,Punkalaidun,887.0,619.0,89.0,8383.0
+1932,Uskela,Salo kla,888.0,734.0,54.0,5053.0
+1932,Vesilahti,Viiala,922.0,928.0,7.0,5932.0
+1932,Äänekoski,Suolahti,992.0,774.0,40.0,9058.0
+1933,Hollola,Lahti,98.0,398.0,8763.0,15983.0
+1933,Joroinen,Jäppilä,171.0,184.0,22.0,6867.0
+1933,Kemin mlk,Kemi,241.0,240.0,9.0,17364.0
+1933,Kerimäki,Punkaharju,246.0,618.0,7.0,7403.0
+1933,Mikkelin mlk,Ristiina,492.0,696.0,99.0,12336.0
+1933,Pieksämäki,Jäppilä,593.0,184.0,10.0,10489.0
+1933,Pohja,Karjaa,606.0,220.0,8.0,5579.0
+1933,Sääminki,Punkaharju,789.0,618.0,51.0,10478.0
+1933,Viipuri mlk,Viipuri,930.0,929.0,11189.0,30699.0
+1934,Joroinen,Suonenjoki,171.0,778.0,165.0,6797.0
+1934,Juva,Anttola,178.0,14.0,2.0,12248.0
+1934,Jäppilä,Suonenjoki,184.0,778.0,6.0,2976.0
+1934,Kaarlela,Kokkola,203.0,272.0,1083.0,7276.0
+1934,Karjalohja,Sammatti,223.0,737.0,41.0,2151.0
+1934,Kivijärvi,Kannonkoski,265.0,216.0,2957.0,11576.0
+1934,Kyyrölä,Muolaa,321.0,497.0,1952.0,1952.0
+1934,Lohja,Sammatti,427.0,737.0,43.0,11577.0
+1934,Pieksämäki,Suonenjoki,593.0,778.0,13.0,10503.0
+1934,Puumala,Anttola,623.0,14.0,5.0,6540.0
+1934,Ristiina,Anttola,696.0,14.0,18.0,6358.0
+1934,Suonenjoki,Jäppilä,778.0,184.0,5.0,8604.0
+1934,Tammisaaren mlk,Tammisaari,836.0,835.0,31.0,2208.0
+1934,Tammisaari,Tammisaaren mlk,835.0,836.0,17.0,3779.0
+1935,Haapavesi,Kärsämäki,71.0,317.0,74.0,8375.0
+1935,Haukivuori,Hankasalmi,85.0,77.0,4.0,4324.0
+1935,Joutsa,Hartola,172.0,81.0,9.0,5179.0
+1935,Keuruu,Vilppula,249.0,933.0,848.0,9009.0
+1935,Mietoinen,Tyrvää,490.0,861.0,80.0,1685.0
+1935,Mustasaari,Vaasa,499.0,905.0,406.0,10368.0
+1935,Muurame,Säynätsalo,500.0,787.0,228.0,2796.0
+1935,Pudasjärvi,Yli-Ii,615.0,972.0,138.0,10996.0
+1935,Rautalampi,Pieksämäki,686.0,593.0,58.0,5962.0
+1935,Tyrvää,Punkalaidun,861.0,619.0,151.0,9523.0
+1935,Vehkalahti,Hamina,917.0,75.0,499.0,9511.0
+1935,Virolahti,Miehikkälä,935.0,489.0,41.0,7953.0
+1936,Helsinki mlk,Helsinki,92.0,91.0,31.0,16295.0
+1936,Helsinki mlk,Huopalahti,92.0,104.0,615.0,16295.0
+1936,Johannes,Säkkijärvi,168.0,782.0,16.0,10530.0
+1936,Jämsä,Jämsänkoski,182.0,183.0,11.0,8596.0
+1936,Jämsä,Koskenpää,182.0,282.0,8.0,8596.0
+1936,Korpilahti,Leivonmäki,277.0,415.0,269.0,7145.0
+1936,Lappee,Joutseno,404.0,173.0,48.0,16240.0
+1936,Mietoinen,Karjala,490.0,222.0,4.0,1590.0
+1936,Muuruvesi,Juankoski,502.0,174.0,30.0,4533.0
+1936,Mynämäki,Karjala,503.0,222.0,7.0,4748.0
+1936,Nurmijärvi,Hyvinkään mlk,543.0,107.0,8.0,6971.0
+1936,Pernaja,Liljendal,585.0,424.0,93.0,7423.0
+1936,Pielisjärvi,Lieksan kla,597.0,422.0,49.0,18541.0
+1936,Pälkjärvi,Värtsilä,634.0,943.0,524.0,2800.0
+1936,Ruovesi,Pohjaslahti,702.0,637.0,2081.0,11150.0
+1936,Tuusniemi,Riistavesi,857.0,695.0,17.0,6871.0
+1936,Viipuri mlk,Säkkijärvi,930.0,782.0,7.0,18405.0
+1937,Elimäki,Iitti,44.0,142.0,134.0,6733.0
+1937,Ikaalisten mlk,Kuru,144.0,303.0,12.0,11914.0
+1937,Kaarina,Turku,202.0,853.0,44.0,8330.0
+1937,Keuruu,Vilppula,249.0,933.0,8.0,8109.0
+1937,Liperi,Kuusjärvi,426.0,309.0,452.0,11378.0
+1937,Pohjois_Pirkkala,Tampere,536.0,837.0,8860.0,18523.0
+1937,Raisio,Turku,680.0,853.0,6.0,2029.0
+1937,Tammisaari mlk,Tammisaari,836.0,835.0,3.0,2136.0
+1937,Uusikaarlepyy,Jepua,893.0,166.0,2.0,1015.0
+1937,Ylitornio,Turtola,976.0,854.0,11.0,6945.0
+1938,Kaavi,Kuusjärvi,204.0,309.0,7.0,6738.0
+1938,Kemi mlk,Kemi,241.0,240.0,14716.0,18163.0
+1938,Kuopio,Kuopio mlk,297.0,298.0,132.0,24621.0
+1938,Kuopio,Karttula,297.0,227.0,1.0,24621.0
+1938,Kuopio,Vehmersalmi,297.0,919.0,24.0,24621.0
+1938,Lappajärvi,Lapua,403.0,408.0,890.0,7275.0
+1938,Loimaan mlk,Loimaan kla,431.0,430.0,1.0,7829.0
+1938,Maaria,Kakskerta,477.0,207.0,706.0,9100.0
+1938,Mynämäki,Karjala,503.0,222.0,221.0,4652.0
+1938,Mynämäki,Mietoinen,503.0,490.0,36.0,4652.0
+1938,Parikkala,Simpele,580.0,752.0,21.0,11159.0
+1938,Simpele,Parikkala,752.0,580.0,130.0,2633.0
+1938,Vesilahti,Tottijärvi,922.0,852.0,13.0,5687.0
+1938,Viipuri,Viipuri mlk,929.0,930.0,128.0,62466.0
+1938,Viipuri mlk,Viipuri,930.0,929.0,54.0,18291.0
+1938,Vähäkyrö,Maksamaa,942.0,479.0,48.0,5210.0
+1939,Hyvinkään mlk,Hyvinkää,107.0,106.0,10180.0,10045.0
+1939,Juankoski,Rautavaara,174.0,687.0,13.0,1986.0
+1939,Kaarina,Turku,202.0,853.0,576.0,7850.0
+1939,Korpilahti,Jämsä,277.0,182.0,17.0,6725.0
+1939,Koskenpää,Jämsä,282.0,182.0,7.0,2492.0
+1939,Pielavesi,Kiuruvesi,595.0,263.0,19.0,10965.0
+1939,Pälkjärvi,Soanlahti,634.0,757.0,8.0,2279.0
+1939,Riistavesi,Tuusniemi,695.0,857.0,49.0,2724.0
+1939,Säkylä,Loimaa,783.0,430.0,1.0,3121.0
+1939,Äänekoski,Sumiainen,992.0,770.0,44.0,10456.0
+1940,Hartola,Sysmä,81.0,781.0,3.0,5824.0
+1940,Haukivuori,Virtasalmi,85.0,937.0,16.0,4368.0
+1940,Hirvensalmi,Mikkeli mlk,97.0,492.0,24.0,5970.0
+1940,Isokyrö,Ylihärmä,152.0,971.0,4.0,9019.0
+1940,Kalanti,Pyhämaa,209.0,629.0,27.0,4052.0
+1940,Kangaslampi,Leppävirta,212.0,420.0,2.0,2483.0
+1940,Lapinlahti,Pielavesi,402.0,595.0,10.0,9621.0
+1940,Ristiina,Mikkeli mlk,696.0,492.0,6.0,5758.0
+1940,Sääksmäki,Pyhämaa,788.0,629.0,4107.0,8079.0
+1940,Sääksmäki,Valkeakoski,788.0,908.0,4248.0,8079.0
+1940,Toivakka,Jyväskylä mlk,850.0,180.0,8.0,3014.0
+1941,Juva,Haukivuori,178.0,85.0,108.0,12418.0
+1941,Jyväskylä mlk,Jyväskylä,180.0,179.0,442.0,18751.0
+1941,Lappee,Lappeenranta,404.0,405.0,33.0,17463.0
+1941,Maksamaa,Koivulahti,479.0,270.0,43.0,2052.0
+1941,Ruovesi,Pohjaslahti,702.0,637.0,14.0,10613.0
+1941,Tervo,Karttula,844.0,227.0,12.0,2914.0
+1942,Ilmajoki,Kauhajoki,145.0,232.0,17.0,13531.0
+1942,Kalajoki,Rautio,208.0,688.0,75.0,6855.0
+1942,Kalajoki,Alavieska,208.0,9.0,2.0,6855.0
+1942,Kalanti,Pyhämaa,209.0,629.0,172.0,4043.0
+1942,Kalanti,Uusikaupunki mlk,209.0,896.0,124.0,4043.0
+1942,Kurikka,Kauhajoki,301.0,232.0,151.0,11207.0
+1942,Laitilan kla,Uusikaupunki mlk,400.0,896.0,9.0,9881.0
+1942,Lokalahti,Uusikaupunki mlk,432.0,896.0,10.0,1694.0
+1942,Mäntyharju,Pertunmaa,507.0,588.0,10.0,9288.0
+1942,Rautio,Kalajoki,688.0,208.0,13.0,1702.0
+1942,Ulvila,Pori,886.0,609.0,7350.0,12293.0
+1942,Uusikaupunki,Uusikaupunki mlk,895.0,896.0,9.0,3922.0
+1943,Jyväskylä mlk,Jyväskylä,180.0,179.0,7587.0,19323.0
+1943,Kalanti,Uusikaupunki,209.0,895.0,7.0,3737.0
+1943,Parkano,Kihniö,581.0,250.0,79.0,8455.0
+1944,Askainen,Taivassalo,17.0,833.0,14.0,919.0
+1944,Iisalmi mlk,Sonkajärvi,141.0,762.0,454.0,13182.0
+1944,Iisalmi mlk,Lapinlahti,141.0,402.0,20.0,13182.0
+1944,Kiukainen,Nakkila,262.0,531.0,107.0,4838.0
+1944,Laihia,Jurva,399.0,175.0,116.0,8052.0
+1944,Luvia,Nakkila,442.0,531.0,6.0,2856.0
+1944,Maalahti,Pirttikylä,475.0,605.0,89.0,5093.0
+1944,Maaria,Turku,477.0,853.0,480.0,8840.0
+1944,Oripää,Yläne,561.0,979.0,47.0,2093.0
+1944,Oulujoki,Oulu,565.0,564.0,1371.0,5826.0
+1944,Pelkosenniemi,Sodankylä,583.0,758.0,6.0,3664.0
+1944,Sodankylä,Pelkosenniemi,758.0,583.0,14.0,7228.0
+1944,Sonkajärvi,Iisalmi,762.0,140.0,56.0,8849.0
+1944,Tottijärvi,Pirkkala,852.0,604.0,3.0,1191.0
+1944,Vesilahti,Pirkkala,922.0,604.0,7.0,5790.0
+1944,Yläne,Oripää,979.0,561.0,5.0,3442.0
+1945,Joroinen,Pieksämäki,171.0,593.0,39.0,6786.0
+1945,Karstula,Kyyjärvi,226.0,312.0,2792.0,10711.0
+1945,Kuusisto,Kaarina,307.0,202.0,12.0,543.0
+1945,Lohja,Nummi,427.0,540.0,12.0,13049.0
+1946,Akaa,Toijala,3.0,864.0,5006.0,5006.0
+1946,Degerby,Inkoo,39.0,149.0,1321.0,1321.0
+1946,Helsinki,Helsinki mlk,91.0,92.0,12927.0,338836.0
+1946,Huopalahti,Helsinki,104.0,91.0,8633.0,8633.0
+1946,Kaarina,Turku,202.0,853.0,5291.0,7542.0
+1946,Kulosaaren huvilak.,Helsinki,294.0,91.0,1220.0,1220.0
+1946,Kuusisto,Kaarina,307.0,202.0,515.0,515.0
+1946,Maaria,Turku,477.0,853.0,7248.0,8009.0
+1946,Oulunkylä,Helsinki,566.0,91.0,2695.0,2695.0
+1946,Parikkala,Simpele,580.0,752.0,665.0,10628.0
+1946,Porin mlk,Pori,610.0,609.0,5057.0,10914.0
+1946,Pälkjärvi,Tohmajärvi,634.0,848.0,1742.0,1742.0
+1946,Ruokolahti,Rautjärvi,700.0,689.0,11.0,24268.0
+1946,Vahviala,Lappee,907.0,404.0,5145.0,5145.0
+1946,Äänekoski,Suolahden kla,992.0,774.0,3741.0,10844.0
+1947,Hausjärvi,Riihimäen kla,86.0,694.0,765.0,7556.0
+1947,Kakskerta,Turku,207.0,853.0,451.0,1016.0
+1947,Kuopion mlk,Kuopio,298.0,297.0,1203.0,9511.0
+1947,Messukylä,Tampere,486.0,837.0,7340.0,7340.0
+1947,Nilsiä,Muuruvesi,534.0,502.0,4.0,8763.0
+1947,Riihimäen kla,Hausjärvi,694.0,86.0,78.0,12030.0
+1947,Riistavesi,Muuruvesi,695.0,502.0,5.0,2725.0
+1947,Säräisniemi,Vuolijoki,785.0,940.0,18.0,4385.0
+1948,Halikko,Salo kla,73.0,734.0,1106.0,7116.0
+1948,Halikko,Angelniemi,73.0,11.0,3.0,7116.0
+1948,Hämeenlinnan mlk,Hämeenlinna,110.0,109.0,3523.0,4230.0
+1948,Hämeenlinnan mlk,Vanaja,110.0,914.0,584.0,4230.0
+1948,Hämeenlinnan mlk,Renko,110.0,692.0,121.0,4230.0
+1948,Jääski,Imatra,185.0,153.0,16321.0,16321.0
+1948,Rantasalmi,Enonkoski,681.0,46.0,49.0,8662.0
+1948,Rantasalmi,Kangaslampi,681.0,212.0,17.0,8662.0
+1948,Ruokolahti,Imatran kla,700.0,153.0,383.0,24898.0
+1948,Uskela,Salo kla,888.0,734.0,4899.0,7192.0
+1948,Vehmaa,Taivassalo,918.0,833.0,4.0,4367.0
+1949,Alajärvi,Kyyjärvi,5.0,312.0,171.0,10676.0
+1949,Anttola,Ristiina,14.0,696.0,3.0,3032.0
+1949,Haukivuori,Mikkelin mlk,85.0,492.0,7.0,4896.0
+1949,Imatran kla,Joutseno,153.0,173.0,330.0,13280.0
+1949,Joutseno,Imatran kla,173.0,153.0,681.0,8887.0
+1949,Juva,Mikkelin mlk,178.0,492.0,201.0,13185.0
+1949,Jyväskylän mlk,Jyväskylä,180.0,179.0,182.0,15605.0
+1949,Kymi,Kotka,311.0,285.0,67.0,23301.0
+1949,Miehikkälä,Ylämaa,489.0,978.0,173.0,12482.0
+1949,Mikkelin mlk,Ristiina,492.0,696.0,12.0,12800.0
+1949,Mikkelin mlk,Haukivuori,492.0,85.0,44.0,12800.0
+1949,Pietarsaari mlk,Kortesjärvi,599.0,281.0,47.0,9231.0
+1949,Purmo,Kortesjärvi,621.0,281.0,151.0,3309.0
+1949,Raisio,Turku,680.0,853.0,11.0,3683.0
+1949,Ruokolahti,Imatran kla,700.0,153.0,17278.0,25067.0
+1949,Soini,Lehtimäki,759.0,414.0,10.0,4652.0
+1949,Soini,Kyyjärvi,759.0,312.0,17.0,4652.0
+1949,Ylöjärvi,Tampere,980.0,837.0,104.0,5875.0
+1950,Heinola,Heinolan mlk,88.0,89.0,8.0,5421.0
+1950,Heinolan mlk,Heinola,89.0,88.0,2324.0,7888.0
+1950,Ikaalisten mlk,Ikaalinen,144.0,143.0,537.0,12133.0
+1950,Lapinlahti,Nilsiä,402.0,534.0,7.0,10571.0
+1950,Leppävirta,Suonenjoki,420.0,778.0,20.0,13048.0
+1950,Pietarsaaren mlk,Pietarsaari,599.0,598.0,99.0,9346.0
+1950,Rantasalmi,Juva,681.0,178.0,47.0,9071.0
+1950,Sääksmäki,Valkeakoski,788.0,908.0,274.0,4917.0
+1950,Tohmajärvi,Värtsilä,848.0,943.0,360.0,8994.0
+1950,Uskela,Halikko,888.0,73.0,63.0,3061.0
+1950,Valkeala,Kouvolan kla,909.0,286.0,128.0,14179.0
+1950,Vanaja,Janakkala,914.0,165.0,79.0,4080.0
+1950,Vesanto,Konnevesi,921.0,275.0,50.0,5186.0
+1950,Ylöjärven kla,Tampere,980.0,837.0,1931.0,6682.0
+1951,Espoo,Kauniainen,49.0,235.0,2543.0,19804.0
+1951,Harjavalta,Kiukainen,79.0,262.0,4.0,6069.0
+1951,Hirvensalmi,Mikkelin mlk,97.0,492.0,6.0,5899.5
+1951,Hyvinkää,Hyvinkään mlk,106.0,107.0,5894.0,15597.0
+1951,Kaarlela,Öja,203.0,997.0,587.0,6308.0
+1951,Karjaa,Karjaan mlk,220.0,221.0,2922.0,6656.0
+1951,Kiikka,Keikyä,253.0,238.0,11.0,4238.0
+1951,Kymi,Karhula,311.0,201.0,19510.0,25680.0
+1951,Laitila,Kodisjoki,400.0,266.0,666.0,10740.0
+1951,Lappee,Lauritsala,404.0,411.0,10608.0,21431.0
+1951,Lohja,Lohjan mlk,427.0,428.0,10091.0,16257.0
+1951,Naantalin mlk,Naantali,530.0,529.0,20.0,1632.5
+1951,Nurmeksen mlk,Nurmes,542.0,541.0,1437.0,13482.0
+1951,Paraisten mlk,Parainen,573.0,579.0,6025.0,10894.0
+1951,Pelkosenniemi,Savukoski,583.0,742.0,1802.0,4096.0
+1951,Pieksämäki,Pieksämäen mlk,593.0,594.0,8158.0,15412.0
+1951,Pielisjärvi,Lieksa,597.0,422.0,3550.0,23384.0
+1951,Pomarkku,Noormarkku,608.0,537.0,135.0,4855.0
+1951,Pyhäjärvi U,Karkkila,627.0,224.0,4489.0,7770.0
+1951,Raippaluoto,Björköby,679.0,33.0,543.0,2981.0
+1951,Rantasalmi,Juva,681.0,178.0,49.0,9230.5
+1951,Rovaniemi,Rovaniemen mlk,698.0,699.0,18388.0,30118.0
+1951,Savonranta,Enonkoski,741.0,46.0,5.0,3577.0
+1951,Seinäjoki,Seinäjoki mlk,743.0,744.0,4337.0,11938.0
+1951,Tohmajärvi,Värtsilä,848.0,943.0,352.0,9065.5
+1951,Tuusula,Järvenpää,858.0,186.0,8232.0,22817.0
+1951,Tuusula,Kerava,858.0,245.0,8486.0,22817.0
+1951,Tyrvää,Vammala,861.0,912.0,1106.0,12098.0
+1951,Valtimo,Nurmes,911.0,541.0,79.0,5816.0
+1951,Äänekoski,Äänekosken mlk,992.0,993.0,3348.0,9028.0
+1952,Alajärvi,Vimpeli,5.0,934.0,28.0,9435.0
+1952,Hämeenkyrö,Viljakkala,108.0,932.0,5.0,10513.0
+1952,Jäppilä,Suonenjoki,184.0,778.0,20.0,3219.0
+1952,Karstula,Kyyjärvi,226.0,312.0,2.0,7369.0
+1952,Mäntsälä,Hyvinkään mlk,505.0,107.0,104.0,11176.0
+1952,Ylistaro,Nurmo,975.0,544.0,6.0,8450.0
+1953,Hattula,Kalvola,82.0,210.0,7.0,6782.0
+1953,Joroinen,Rantasalmi,171.0,681.0,41.0,8633.0
+1953,Korpilahti,Koskenpää,277.0,282.0,28.0,7760.0
+1953,Leppävirta,Joutseno,420.0,173.0,80.0,14342.0
+1953,Rautalampi,Vesanto,686.0,921.0,74.0,7006.0
+1953,Riistavesi,Vehmersalmi,695.0,919.0,24.0,3118.0
+1953,Siuntio,Lohja,755.0,427.0,448.0,3322.0
+1953,Sääksmäki,Kalvola,788.0,210.0,25.0,5147.0
+1953,Urjala,Vesilahti,887.0,922.0,446.0,9540.0
+1953,Vehkalahti,Hamina,917.0,75.0,1068.0,12003.0
+1954,Ilmajoki,Peräseinäjoki,145.0,589.0,9.0,13719.0
+1954,Isokyrö,Ylistaro,152.0,975.0,558.0,7796.0
+1954,Karstula,Soini,226.0,759.0,7.0,7419.0
+1954,Keravan kla,Helsinki mlk,245.0,92.0,2072.0,9292.0
+1954,Kuorevesi,Vilppula,299.0,933.0,253.0,4375.0
+1954,Kuru,Teisko,303.0,840.0,276.0,5264.0
+1954,Kymi,Kotka,311.0,285.0,2249.0,6918.0
+1954,Maaria,Vahto,477.0,906.0,50.0,1849.0
+1954,Paltamo,Kajaanin mlk,578.0,206.0,1653.0,9080.0
+1954,Pielisensuu,Joensuu,596.0,167.0,13241.0,13241.0
+1954,Porvoon mlk,Porvoo,613.0,612.0,1505.0,18251.0
+1954,Rauma mlk,Rauma,685.0,684.0,2553.0,8572.0
+1954,Rautavaara,Valtimo,687.0,911.0,33.0,4816.0
+1954,Rääkkylä,Kitee,707.0,260.0,404.0,7265.0
+1954,Seinäjoen mlk,Peräseinäjoki,744.0,589.0,140.0,4599.0
+1954,Sulkava,Juva,768.0,178.0,87.0,7167.0
+1954,Teisko,Kuru,840.0,303.0,474.0,4676.0
+1954,Teisko,Ylöjärvi,840.0,980.0,217.0,4676.0
+1954,Tuusula,Helsinki mlk,858.0,92.0,1010.0,11943.0
+1954,Utajärvi,Vaala,889.0,785.0,2284.0,3973.0
+1954,Vahto,Paattinen,906.0,574.0,9.0,1272.0
+1955,Enonkoski,Kerimäki,46.0,246.0,5.0,3391.0
+1955,Kerimäki,Enonkoski,246.0,46.0,17.0,8727.0
+1955,Korpilahti,Muurame,277.0,500.0,2.0,7515.0
+1955,Leppävirta,Heinävesi,420.0,90.0,25.0,14321.0
+1955,Munsala,Alahärmä,496.0,4.0,26.0,3013.0
+1955,Mustasaari,Vaasa,499.0,905.0,332.0,7095.0
+1955,Snappertuna,Tammisaari,756.0,835.0,24.0,1912.0
+1955,Tyrvää,Vammalan kla,861.0,912.0,2754.0,11151.0
+1955,Urjala,Koijärvi,887.0,267.0,37.0,8980.0
+1956,Hirvensalmi,Mikkelin mlk,97.0,492.0,125.0,5448.0
+1956,Hollola,Lahti,98.0,398.0,2535.0,12751.0
+1956,Iitti,Kuusankoski,142.0,306.0,38.0,10086.0
+1956,Kalvola,Tammela,210.0,834.0,252.0,4794.0
+1956,Kokemäki,Harjavalta,271.0,79.0,17.0,10131.0
+1956,Kuusankoski,Kouvolan kla,306.0,286.0,124.0,19639.0
+1956,Masku,Raisio,481.0,680.0,41.0,2219.0
+1956,Nastola,Lahti,532.0,398.0,3722.0,11057.0
+1956,Nurmes,Nurmeksen mlk,541.0,542.0,43.0,1631.0
+1956,Orimattila,Lahti,560.0,398.0,1502.0,15490.0
+1956,Oripää,Alastaro,561.0,6.0,11.0,2260.0
+1956,Pohja,Tenhola,606.0,842.0,16.0,6932.0
+1956,Punkalaidun,Urjala,619.0,887.0,5.0,7770.0
+1956,Taipalsaari,Joutseno,831.0,173.0,15.0,3720.0
+1956,Valkeakoski,Kouvolan kla,908.0,286.0,657.0,13201.0
+1956,Valkeala,Kouvolan kla,909.0,286.0,657.0,14950.0
+1957,Alatornio,Tornio,7.0,851.0,1140.0,9989.0
+1957,Espoo,Kauniainen kla,49.0,235.0,32.0,42054.0
+1957,Haukivuori,Pieksämäen mlk,85.0,594.0,29.0,5346.0
+1957,Ilmajoki,Seinäjoki mlk,145.0,744.0,3.0,13688.0
+1957,Karvia,Hongonjoki,230.0,99.0,25.0,5132.0
+1957,Kemijärvi,Kemijärven mlk,320.0,242.0,4116.0,13156.0
+1957,Lappajärvi,Alajärvi,403.0,5.0,37.0,5531.0
+1957,Lieto,Tarvasjoki,423.0,838.0,12.0,7054.0
+1957,Luhanka,Sysmä,435.0,781.0,7.0,2162.0
+1957,Mouhijärvi,Suodenniemi,493.0,772.0,3.0,4446.0
+1957,Naantalin mlk,Naantali,530.0,529.0,10.0,2492.0
+1957,Nurmo,Seinäjoki mlk,544.0,744.0,4.0,4674.0
+1957,Pernaja,Loviisa,585.0,434.0,1896.0,7520.0
+1957,Pöytyä,Aura,636.0,19.0,15.0,5248.0
+1957,Raisio,Naantali,680.0,529.0,6.0,8490.0
+1957,Rovaniemen mlk,Rovaniemi,699.0,698.0,583.0,21643.0
+1957,Saari,Parikkala,728.0,580.0,9.0,3721.0
+1957,Siilinjärvi,Kuopion mlk,749.0,298.0,4.0,7786.0
+1957,Sysmä,Luhanka,781.0,435.0,30.0,9712.0
+1957,Sääksmäki,Valkeakosken kla,788.0,908.0,118.0,5129.0
+1957,Taipalsaari,Savitaipale,831.0,739.0,4.0,3598.0
+1957,Tuusula,Keravan kla,858.0,245.0,81.0,12234.0
+1958,Asikkala,Lammi,16.0,401.0,51.0,8689.0
+1958,Heinävesi,Rantasalmi,90.0,681.0,7.0,9908.0
+1958,Joensuu,Kontiolahti,167.0,276.0,14.0,26152.0
+1958,Joroinen,Varkaus,171.0,915.0,484.0,8758.0
+1958,Kontiolahti,Polvijärvi,276.0,607.0,2.0,10317.0
+1958,Oravainen,Maksamaa,559.0,479.0,2.0,3460.0
+1958,Sääksmäki,Valkeakosken kla,788.0,908.0,52.0,5007.0
+1958,Vöyri,Maksamaa,944.0,479.0,68.0,5702.0
+1959,Alavus,Peräseinäjoki,10.0,589.0,72.0,11486.0
+1959,Kangaslampi,Rantasalmi,212.0,681.0,24.0,3135.0
+1959,Kiuruvesi,Vieremä,263.0,925.0,33.0,16226.0
+1959,Längelmäki,Kuorevesi,443.0,299.0,62.0,4589.0
+1959,Seinäjoki mlk,Seinäjoki,744.0,743.0,5704.0,5164.0
+1959,Tuusula,Helsingin mlk,858.0,92.0,10.0,12761.0
+1959,Vanaja,Hattula,914.0,82.0,9.0,6463.0
+1960,Kannonkoski,Karstula,216.0,226.0,118.0,3553.0
+1960,Porin mlk,Pori,610.0,609.0,7.0,8747.0
+1960,Seinäjoki,Ilmajoki,743.0,145.0,43.0,14520.0
+1960,Vähäkyrö,Ilmajoki,942.0,145.0,147.0,4693.0
+1960,Ylistaro,Ilmajoki,975.0,145.0,12.0,8543.0
+1961,Haukipudas,Oulu,84.0,564.0,555.0,14785.0
+1961,Honkilahti,Hinnerjoki,100.0,96.0,2.0,1849.0
+1961,Jomala,Maarianhamina,170.0,478.0,2039.0,4266.0
+1961,Kemiö,Perniö,243.0,586.0,63.0,5637.0
+1961,Kustavi,Lokalahti,304.0,432.0,6.0,1877.0
+1961,Nakkila,Ulvila,531.0,886.0,71.0,6638.0
+1961,Oravainen,Alahärmä,559.0,4.0,261.0,3334.0
+1961,Oulujoki,Oulu,565.0,564.0,1595.0,6829.0
+1961,Polvijärvi,Juuka,607.0,176.0,6.0,9870.0
+1961,Taivassalo,Lokalahti,833.0,432.0,2.0,2788.0
+1961,Ulvila,Ahlainen,886.0,1.0,20.0,7547.0
+1961,Ulvila,Porin mlk,886.0,610.0,29.0,7547.0
+1961,Vöyri,Alahärmä,944.0,4.0,206.0,5506.0
+1962,Muurame,Säynätsalo,500.0,787.0,17.0,3277.0
+1962,Orivesi,Juupajoki,562.0,177.0,4.0,7959.0
+1962,Paavola,Rantsila,575.0,682.0,11.0,5778.0
+1962,Punkalaidun,Tyrvää,619.0,861.0,1.0,6979.0
+1962,Teisko,Aitolahti,840.0,2.0,19.0,3751.0
+1962,Ylihärmä,Alahärmä,971.0,4.0,13.0,3230.0
+1963,Kajaanin mlk,Vuolijoki,206.0,940.0,9.0,9868.0
+1963,Suonenjoki,Jäppilä,778.0,184.0,38.0,10866.0
+1963,Vaala,Vuolijoki,785.0,940.0,23.0,7272.0
+1963,Ylistaro,Ilmajoki,975.0,145.0,29.0,7803.0
+1964,Lieto,Aura,423.0,19.0,3.0,7880.0
+1964,Lieto,Piikkiö,423.0,602.0,7.0,7880.0
+1964,Maaria,Aura,477.0,19.0,9.0,2900.0
+1964,Muurame,Säynätsalo,500.0,787.0,8.0,3111.0
+1964,Naantalin mlk,Naantali,530.0,529.0,3139.0,3139.0
+1964,Paimio,Piikkiö,577.0,602.0,3.0,6189.0
+1964,Rovaniemen mlk,Rovaniemi,699.0,698.0,196.0,24192.0
+1964,Vesilahti,Lempäälä,922.0,418.0,347.0,4630.0
+1965,Haukipudas,Oulu,84.0,564.0,4228.0,14479.0
+1965,Jyväskylän mlk,Jyväskylä,180.0,179.0,5017.0,24963.0
+1965,Jämijärvi,Parkano,181.0,581.0,16.0,3502.0
+1965,Karhula,Kotka,201.0,285.0,789.0,22695.0
+1965,Kauvatsa,Kokemäki,237.0,271.0,11.0,2319.0
+1965,Kiukainen,Harjavalta,262.0,79.0,16.0,5061.0
+1965,Kokemäki,Harjavalta,271.0,79.0,123.0,9343.0
+1965,Lapinlahti,Maaninka,402.0,476.0,343.0,9728.0
+1965,Oulujoki,Oulu,565.0,564.0,4660.0,4881.0
+1965,Oulujoki,Ylikiiminki,565.0,973.0,86.0,4881.0
+1965,Oulujoki,Utajärvi,565.0,889.0,71.0,4881.0
+1965,Oulujoki,Kempele,565.0,244.0,64.0,4881.0
+1965,Parkano,Karvia,581.0,230.0,15.0,8690.0
+1965,Piippola,Pyhäntä,603.0,630.0,7.0,1983.0
+1965,Rantasalmi,Sääminki,681.0,789.0,631.0,7920.0
+1965,Ranua,Rovaniemen mlk,683.0,699.0,64.0,7214.0
+1965,Vesilahti,Viiala,922.0,928.0,7.0,4197.0
+1966,Aitolahti,Tampere,2.0,837.0,2117.0,2117.0
+1966,Hartola,Joutsa,81.0,172.0,84.0,6111.0
+1966,Hauho,Luopioinen,83.0,439.0,103.0,5417.0
+1966,Helsingin mlk,Helsinki,92.0,91.0,2693.0,61533.0
+1966,Kuusankoski,Kouvola,306.0,286.0,107.0,22427.0
+1966,Muhos,Utajärvi,494.0,889.0,160.0,7931.0
+1966,Tammisaaren mlk,Tammisaari,836.0,835.0,15.0,2438.0
+1966,Utajärvi,Muhos,889.0,494.0,8.0,5472.0
+1966,Valkeala,Kouvola,909.0,286.0,854.0,13048.0
+1967,Angelniemi,Halikko,11.0,73.0,951.0,951.0
+1967,Hankasalmi,Laukaa,77.0,410.0,152.0,8562.0
+1967,Hankasalmi,Konnevesi,77.0,275.0,225.0,8562.0
+1967,Ilmajoki,Kurikka,145.0,301.0,5.0,13096.0
+1967,Kaarina,Vahto,202.0,906.0,2.0,9563.0
+1967,Kaarina,Lieto,202.0,423.0,8.0,9563.0
+1967,Kajaanin mlk,Kajaani,206.0,205.0,175.0,10664.0
+1967,Koivulahti,Mustasaari,270.0,499.0,3.0,2437.0
+1967,Lappee,Lappeenranta,404.0,405.0,11906.0,11906.0
+1967,Lauritsala,Lappeenranta,411.0,405.0,12965.0,12965.0
+1967,Maaria,Rusko,477.0,704.0,7.0,3076.0
+1967,Maaria,Turku,477.0,853.0,3069.0,3076.0
+1967,Naantali,Raisio,529.0,680.0,53.0,6609.0
+1967,Nousiainen,Rusko,538.0,704.0,2.0,3173.0
+1967,Parainen,Paraisten mlk,579.0,573.0,6503.0,6503.0
+1967,Porin mlk,Porin mlk,610.0,610.0,8811.0,8811.0
+1967,Raisio,Turku,680.0,853.0,271.0,13761.0
+1967,Raisio,Vahto,680.0,906.0,6.0,13761.0
+1967,Turku,Raisio,853.0,680.0,7.0,142509.0
+1967,Turku,Lieto,853.0,423.0,2.0,142509.0
+1967,Uskela,Salo,888.0,734.0,3105.0,3105.0
+1967,Vahto,Rusko,906.0,704.0,33.0,1114.0
+1967,Vanaja,Hämeenlinna,914.0,109.0,5346.0,6636.0
+1967,Vanaja,Janakkala,914.0,165.0,1254.0,6636.0
+1967,Vanaja,Renko,914.0,692.0,36.0,6636.0
+1968,Kakskerta,Turku,207.0,853.0,762.0,762.0
+1968,Kauniainen,Espoo,235.0,49.0,3.0,5071.0
+1968,Uudenkaarlepyyn mlk,Purmo,894.0,621.0,36.0,2271.0
+1969,Alaveteli,Kruunupyy,8.0,288.0,1788.0,1788.0
+1969,Hiittinen,Dragsfjärd,94.0,40.0,732.0,732.0
+1969,Hyvinkään mlk,Hyvinkää,107.0,106.0,6954.0,6945.0
+1969,Karjaan mlk,Karjaa,221.0,220.0,2509.0,2509.0
+1969,Karuna,Sauvo,228.0,738.0,971.0,971.0
+1969,Kauvatsa,Kokemäki,237.0,271.0,2048.0,2048.0
+1969,Koijärvi,Forssa,267.0,61.0,2103.0,2262.0
+1969,Koijärvi,Urjala,267.0,887.0,159.0,2262.0
+1969,Koskenpää,Jämsänkoski,282.0,183.0,1980.0,1980.0
+1969,Kuopion mlk,Kuopio,298.0,297.0,7557.0,8258.0
+1969,Kuopion mlk,Siilinjärvi,298.0,749.0,701.0,8258.0
+1969,Pihlajavesi,Keuruu,600.0,249.0,1744.0,1744.0
+1969,Pyhäjärvi,Karkkila,627.0,224.0,2938.0,2938.0
+1969,Pyhäjärvi,Karkkila,626.0,224.0,2938.0,9402.0
+1969,Teerijärvi,Kruunupyy,839.0,288.0,2456.0,2456.0
+1969,Uudenkaupungin mlk,Uusikaupunki,896.0,895.0,831.0,831.0
+1969,Äänekosken mlk,Äänekoski,993.0,992.0,2941.0,2941.0
+1969,Öja,Kaarlela,997.0,203.0,711.0,711.0
+1970,Hinnerjoki,Eura,96.0,50.0,1411.0,1411.0
+1970,Honkilahti,Eura,100.0,50.0,1548.0,1548.0
+1970,Iisalmen mlk,Iisalmi,141.0,140.0,13371.0,13371.0
+1970,Jepua,Alahärmä,166.0,4.0,2.0,1562.0
+1970,Kälviä,Toholampi,315.0,849.0,9.0,4054.0
+1970,Muuruvesi,Juankoski,502.0,174.0,3708.0,3708.0
+1970,Salla,Kuusamo,732.0,305.0,15.0,10026.0
+1970,Sauvo,Kemiö,738.0,243.0,23.0,3208.0
+1970,Säyneinen,Juankoski,786.0,174.0,2251.0,2251.0
+1970,Tyrväntö,Hattula,860.0,82.0,1683.0,1683.0
+1971,Haukipudas,Kiiminki,84.0,255.0,44.0,9016.0
+1971,Hirvensalmi,Joutsa,97.0,172.0,5.0,3889.0
+1971,Hyvinkää,Riihimäki,106.0,694.0,49.0,34249.0
+1971,Janakkala,Lammi,165.0,401.0,8.0,14634.0
+1971,Kaavi,Juankoski,204.0,174.0,171.0,5754.0
+1971,Kempele,Liminka,244.0,425.0,80.0,3985.0
+1971,Kullaa,Noormarkku,293.0,537.0,66.0,1853.0
+1971,Lumijoki,Liminka,436.0,425.0,12.0,1591.0
+1971,Nakkila,Pori,531.0,609.0,682.0,5579.0
+1971,Oulu,Kempele,564.0,244.0,16.0,84892.0
+1971,Oulu,Liminka,564.0,425.0,13.0,84892.0
+1971,Oulunsalo,Liminka,567.0,425.0,30.0,2098.0
+1971,Tammela,Forssa,834.0,61.0,84.0,6161.0
+1971,Temmes,Liminka,841.0,425.0,2.0,739.0
+1971,Tiukka,Kristiinankaupunki,847.0,287.0,5.0,835.0
+1971,Ulvila,Pori,886.0,609.0,407.0,8036.0
+1972,Ahlainen,Pori,1.0,609.0,2351.0,2351.0
+1972,Eura,Laitila,50.0,400.0,106.0,9858.0
+1972,Honkajoki,Kankaanpää,99.0,214.0,6.0,2912.0
+1972,Ikaalisten mlk,Ikaalinen,144.0,143.0,7594.0,7594.0
+1972,Längelmäki,Kuorevesi,443.0,299.0,2.0,3137.0
+1972,Nakkila,Ulvila,531.0,886.0,3.0,5559.0
+1972,Piikkiö,Paimio,602.0,577.0,42.0,5056.0
+1972,Rantsila,Pukkila,682.0,616.0,8.0,2944.0
+1972,Suoniemi,Karkku,779.0,225.0,80.0,1659.0
+1972,Teisko,Tampere,840.0,837.0,2816.0,2816.0
+1973,Alatornio,Tornio,7.0,851.0,8792.0,8792.0
+1973,Bergö,Maalahti,32.0,475.0,640.0,640.0
+1973,Björköby,Mustasaari,33.0,499.0,459.0,459.0
+1973,Eräjärvi,Orivesi,48.0,562.0,1404.0,1404.0
+1973,Haukipudas,Oulu,84.0,564.0,64.0,9625.0
+1973,Juankoski,Kaavi,174.0,204.0,21.0,8229.0
+1973,Juankoski,Nilsiä,174.0,534.0,731.0,8229.0
+1973,Kaavi,Juankoski,204.0,174.0,34.0,5472.0
+1973,Karkku,Vammala,225.0,912.0,2538.0,2538.0
+1973,Karunki,Tornio,229.0,851.0,2181.0,2181.0
+1973,Kemijärven mlk,Kemijärvi,242.0,320.0,7523.0,7523.0
+1973,Koivulahti,Mustasaari,270.0,499.0,2541.0,2541.0
+1973,Kontiolahti,Joensuu,276.0,167.0,21.0,8479.0
+1973,Korsnäs,Närpiö,280.0,545.0,522.0,2799.0
+1973,Lapväärtti,Kristiinankaupunki,409.0,287.0,3801.0,3801.0
+1973,Luopioinen,Hauho,439.0,83.0,28.0,3223.0
+1973,Mouhijärvi,Vammala,493.0,912.0,9.0,3164.0
+1973,Mustasaari,Vaasa,499.0,905.0,2136.0,7926.0
+1973,Nurmeksen mlk,Nurmes,542.0,541.0,9206.0,9206.0
+1973,Paattinen,Turku,574.0,853.0,1900.0,1900.0
+1973,Paavola,Ruukki,575.0,708.0,4395.0,4395.0
+1973,Petolahti,Maalahti,590.0,475.0,1317.0,1317.0
+1973,Pielisjärvi,Lieksa,597.0,422.0,15047.0,15047.0
+1973,Pirttikylä,Närpiö,605.0,545.0,1783.0,1783.0
+1973,Pohjaslahti,Vilppula,637.0,933.0,841.0,1006.0
+1973,Pohjaslahti,Virrat,637.0,936.0,165.0,1006.0
+1973,Punkaharju,Kerimäki,618.0,246.0,6.0,3603.0
+1973,Raippaluoto,Mustasaari,679.0,499.0,459.0,1457.0
+1973,Rautio,Kalajoki,688.0,208.0,1348.0,1348.0
+1973,Revonlahti,Ruukki,693.0,708.0,956.0,956.0
+1973,Riistavesi,Kuopio,695.0,297.0,2147.0,2147.0
+1973,Saloinen,Raahe,735.0,678.0,5914.0,5914.0
+1973,Siipyy,Kristiinankaupunki,750.0,287.0,1615.0,1615.0
+1973,Simpele,Rautjärvi,752.0,689.0,3893.0,3893.0
+1973,Sulva,Mustasaari,769.0,499.0,1263.0,2498.0
+1973,Sulva,Vaasa,769.0,905.0,1235.0,2498.0
+1973,Suoniemi,Nokia,779.0,536.0,1544.0,1544.0
+1973,Sääksmäki,Valkeakoski,788.0,908.0,4392.0,4392.0
+1973,Sääminki,Punkaharju,789.0,618.0,1200.0,11231.0
+1973,Sääminki,Savonlinna,789.0,740.0,10031.0,11231.0
+1973,Teuva,Jurva,846.0,175.0,3.0,7805.0
+1973,Tiukka,Kristiinankaupunki,847.0,287.0,808.0,808.0
+1973,Tyrvää,Vammala,861.0,912.0,7123.0,7123.0
+1973,Ylimarkku,Närpiö,974.0,545.0,1575.0,1575.0
+1974,Anttola,Ristiina,14.0,696.0,7.0,1937.0
+1974,Enontekiö,Muonio,47.0,498.0,28.0,2324.0
+1974,Haapasaari,Kotka,70.0,285.0,66.0,66.0
+1974,Haukivuori,Kangasniemi,85.0,213.0,12.0,3363.0
+1974,Hyvinkää,Tuusula,106.0,858.0,1010.0,36192.0
+1974,Karttula,Suonenjoki,227.0,778.0,72.0,3501.0
+1974,Kiikka,Vammala,253.0,912.0,34.0,3004.0
+1974,Laukaa,Jyväskylän mlk,410.0,180.0,187.0,13674.0
+1974,Pyhämaa,Uusikaupunki,629.0,895.0,848.0,848.0
+1974,Rautalampi,Hankasalmi,686.0,77.0,73.0,5228.0
+1974,Ruokolahti,Imatra,700.0,153.0,12.0,7388.0
+1975,Jepua,Uusikaarlepyy,166.0,893.0,1404.0,1404.0
+1975,Kalajoki,Ylivieska,208.0,977.0,5.0,8142.0
+1975,Lohtaja,Himanka,429.0,95.0,35.0,2933.0
+1975,Lohtaja,Kannus,429.0,217.0,1.0,2933.0
+1975,Munsala,Uusikaarlepyy,496.0,893.0,2416.0,2416.0
+1975,Nurmijärvi,Tuusula,543.0,858.0,8.0,19431.0
+1975,Närpiö,Maalahti,545.0,475.0,310.0,11340.0
+1975,Pusula,Somerniemi,622.0,760.0,5.0,2830.0
+1975,Pälkäne,Valkeakoski,635.0,908.0,113.0,4150.0
+1975,Sysmä,Heinolan mlk,781.0,89.0,217.0,6923.0
+1975,Uudenkaarlepyyn mlk,Uusikaarlepyy,894.0,893.0,1971.0,1971.0
+1975,Valkeakoski,Toijala,908.0,864.0,145.0,22564.0

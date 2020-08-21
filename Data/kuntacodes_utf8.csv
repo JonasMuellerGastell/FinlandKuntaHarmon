@@ -1,0 +1,621 @@
+code,code50,Name_Fi,Name_Sv,Name_AltGen,Name_Alt,province_Fi,province_Sv,Status,Urban,grouperMLK,grouperAll
+91,11.0,Helsinki,Helsingfors,,,Uudenmaan lääni,Nylands län,Remain,1.0,91.0,91.0
+78,20.0,Hanko,Hangö,,,Uudenmaan lääni,Nylands län,Remain,1.0,78.0,78.0
+434,30.0,Loviisa,Lovisa,,,Uudenmaan lääni,Nylands län,Remain,1.0,434.0,434.0
+612,40.0,Porvoo,Borgå,Porvoo kla,Porvoon kla,Uudenmaan lääni,Nylands län,Remain,1.0,612.0,612.0
+835,50.0,Tammisaari,Ekenäs,,,Uudenmaan lääni,Nylands län,Remain,1.0,835.0,835.0
+106,110.0,Hyvinkää,Hyvinge,Hyvinkää kla,Hyvinkään kla,Uudenmaan lääni,Nylands län,Remain,1.0,106.0,106.0
+186,120.0,Järvenpää,Träskända,,,Uudenmaan lääni,Nylands län,Remain,1.0,186.0,858.0
+220,130.0,Karjaa,Karis,Karjaa kla,Karjaan kla,Uudenmaan lääni,Nylands län,Remain,1.0,220.0,220.0
+224,140.0,Karkkila,,Karkkila kla,Karkkilan kla,Uudenmaan lääni,Nylands län,Remain,1.0,224.0,627.0
+235,150.0,Kauniainen,Grankulla,Kauniainen kla,Kauniaisten kla,Uudenmaan lääni,Nylands län,Remain,1.0,235.0,49.0
+245,160.0,Kerava,Kervo,,Keravan kla,Uudenmaan lääni,Nylands län,Remain,1.0,245.0,858.0
+427,170.0,Lohja,Lojo,,Lohjan kla,Uudenmaan lääni,Nylands län,Remain,1.0,427.0,427.0
+15,1001.0,Artjärvi,Artsjö,,,Uudenmaan lääni,Nylands län,Remain,0.0,15.0,15.0
+18,1002.0,Askola,,,,Uudenmaan lääni,Nylands län,Remain,0.0,18.0,18.0
+34,1003.0,Bromarv,Bromarf,Bromarvi,,Uudenmaan lääni,Nylands län,Remain,0.0,34.0,34.0
+39,401002.0,Degerby,,,,Uudenmaan lääni,Nylands län,Temporarily_Ceded,0.0,39.0,149.0
+49,1004.0,Espoo,Esbo,,,Uudenmaan lääni,Nylands län,Remain,0.0,49.0,49.0
+92,1005.0,Helsingin mlk,Helsinge,Helsinki mlk,Vantaa,Uudenmaan lääni,Nylands län,Remain,0.0,91.0,91.0
+107,1006.0,Hyvinkään mlk,Hyvinge lk,Hyvinkää mlk,,Uudenmaan lääni,Nylands län,Remain,0.0,106.0,106.0
+149,1007.0,Inkoo,Ingä,,Ingå,Uudenmaan lääni,Nylands län,Remain,0.0,149.0,149.0
+221,1008.0,Karjaan mlk,Karis lk,Karjaa mlk,,Uudenmaan lääni,Nylands län,Remain,0.0,220.0,220.0
+223,1009.0,Karjalohja,Karislojo,,,Uudenmaan lääni,Nylands län,Remain,0.0,223.0,223.0
+257,101010.0,Kirkkonummi,Kyrkslätt,,,Uudenmaan lääni,Nylands län,Temporarily_Ceded,0.0,257.0,257.0
+407,1011.0,Lapinjärvi,Lappträsk,,,Uudenmaan lääni,Nylands län,Remain,0.0,407.0,407.0
+424,1012.0,Liljendal,,,Liljendaali,Uudenmaan lääni,Nylands län,Remain,0.0,424.0,424.0
+428,1013.0,Lohjan mlk,Lojo lk,Lohja mlk,,Uudenmaan lääni,Nylands län,Remain,0.0,427.0,427.0
+504,1014.0,Myrskylä,Mörskom,,,Uudenmaan lääni,Nylands län,Remain,0.0,504.0,504.0
+505,1015.0,Mäntsälä,,,,Uudenmaan lääni,Nylands län,Remain,0.0,505.0,505.0
+540,1016.0,Nummi,,,Nummi-Pusula,Uudenmaan lääni,Nylands län,Remain,0.0,540.0,540.0
+543,1017.0,Nurmijärvi,,,,Uudenmaan lääni,Nylands län,Remain,0.0,543.0,543.0
+560,1018.0,Orimattila,,,,Uudenmaan lääni,Nylands län,Remain,0.0,560.0,560.0
+585,1019.0,Pernaja,Pemä,,Pernå,Uudenmaan lääni,Nylands län,Remain,0.0,585.0,585.0
+606,1020.0,Pohja,Pojo,,,Uudenmaan lääni,Nylands län,Remain,0.0,606.0,606.0
+611,1021.0,Pornainen,Borgnäs,,,Uudenmaan lääni,Nylands län,Remain,0.0,611.0,611.0
+613,1022.0,Porvoon mlk,Borgä lk,Porvoo mlk,,Uudenmaan lääni,Nylands län,Remain,0.0,612.0,612.0
+616,1023.0,Pukkila,,,,Uudenmaan lääni,Nylands län,Remain,0.0,616.0,616.0
+622,1024.0,Pusula,,,,Uudenmaan lääni,Nylands län,Remain,0.0,622.0,622.0
+627,1025.0,Pyhäjärvi,Pyhäjärvi U,,Pyhäjärvi U,Uudenmaan lääni,Nylands län,Remain,0.0,627.0,627.0
+701,1026.0,Ruotsinpyhtää,Strömfors,,,Uudenmaan lääni,Nylands län,Remain,0.0,701.0,701.0
+737,1027.0,Sammatti,,,,Uudenmaan lääni,Nylands län,Remain,0.0,737.0,737.0
+753,1028.0,Sipoo,Sibbo,,,Uudenmaan lääni,Nylands län,Remain,0.0,753.0,753.0
+755,101029.0,Siuntio,Sjundeå,,,Uudenmaan lääni,Nylands län,Temporarily_Ceded,0.0,755.0,755.0
+756,1030.0,Snappertuna,,,,Uudenmaan lääni,Nylands län,Remain,0.0,756.0,756.0
+836,1031.0,Tammisaaren mlk,Ekenäs lk,Tammisaari mlk,,Uudenmaan lääni,Nylands län,Remain,0.0,835.0,835.0
+842,1032.0,Tenhola,Tenela,,,Uudenmaan lääni,Nylands län,Remain,0.0,842.0,842.0
+858,1033.0,Tuusula,Tusby,,,Uudenmaan lääni,Nylands län,Remain,0.0,858.0,858.0
+927,1034.0,Vihti,Vichtis,,,Uudenmaan lääni,Nylands län,Remain,0.0,927.0,927.0
+853,10011.0,Turku,Åbo,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,853.0,853.0
+529,10020.0,Naantali,Nädendal,,Nådendal,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,529.0,529.0
+609,10030.0,Pori,Björneborg,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,609.0,609.0
+684,10040.0,Rauma,Raumo,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,684.0,684.0
+895,10050.0,Uusikaupunki,Nystad,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,895.0,895.0
+143,10110.0,Ikaalinen,,Ikaalinen kla,Ikaalisten kla,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,143.0,143.0
+430,10120.0,Loimaa,,Loimaa kla,Loimaan kla,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,430.0,430.0
+579,10130.0,Parainen,Pargas,Parainen kla,Paraisten kla,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,579.0,579.0
+734,10140.0,Salo,,Salo kla,Salon kla,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,734.0,734.0
+912,10150.0,Vammala,,Vammala kla,Vammalan kla,Turun ja Porin lääni,Turun ja Porin lääni,Remain,1.0,912.0,861.0
+1,11001.0,Ahlainen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,1.0,1.0
+6,11002.0,Alastaro,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,6.0,6.0
+11,11003.0,Angelniemi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,11.0,11.0
+17,11004.0,Askainen,Villnäs,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,17.0,17.0
+19,11005.0,Aura,,,Prunkkala,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,19.0,19.0
+40,11006.0,Dragsfjärd,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,40.0,40.0
+50,11007.0,Eura,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,50.0,50.0
+51,11008.0,Eurajoki,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,51.0,51.0
+73,11009.0,Halikko,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,73.0,73.0
+79,11010.0,Harjavalta,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,79.0,79.0
+94,11011.0,Hiittinen,Hitis,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,94.0,94.0
+96,11012.0,Hinnerjoki,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,96.0,96.0
+99,11013.0,Hongonjoki,,Honkajoki,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,99.0,99.0
+100,11014.0,Honkilahti,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,100.0,100.0
+101,11015.0,Houtskari,Houtskär,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,101.0,101.0
+102,11016.0,Huittinen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,102.0,102.0
+108,11017.0,Hämeenkyrö,Tavastkyro,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,108.0,108.0
+144,11018.0,Ikaalisten mlk,,Ikaalinen mlk,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,143.0,143.0
+150,11019.0,Iniö,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,150.0,150.0
+181,11020.0,Jämijärvi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,181.0,181.0
+202,11021.0,Kaarina,St Karins,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,202.0,853.0
+207,11022.0,Kakskerta,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,207.0,207.0
+209,11023.0,Kalanti,,,Uusikirkko Tl,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,209.0,209.0
+214,11024.0,Kankaanpää,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,214.0,214.0
+219,11025.0,Karinainen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,219.0,219.0
+222,11026.0,Karjala,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,222.0,222.0
+225,11027.0,Karkku,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,225.0,225.0
+228,11028.0,Karuna,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,228.0,228.0
+230,11029.0,Karvia,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,230.0,230.0
+237,11030.0,Kauvatsa,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,237.0,237.0
+238,11031.0,Keikyä,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,238.0,238.0
+243,11032.0,Kemiö,Kimito,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,243.0,243.0
+250,11033.0,Kihniö,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,250.0,250.0
+252,11034.0,Kiikala,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,252.0,252.0
+253,11035.0,Kiikka,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,253.0,253.0
+254,11036.0,Kiikoinen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,254.0,254.0
+259,11037.0,Kisko,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,259.0,259.0
+262,11038.0,Kiukainen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,262.0,262.0
+266,11039.0,Kodisjoki,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,266.0,266.0
+271,11040.0,Kokemäki,Kumo,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,271.0,271.0
+279,11041.0,Korppoo,Korpo,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,279.0,279.0
+284,11042.0,Koski,Koski Tl,,Koski Tl,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,284.0,284.0
+293,11043.0,Kullaa,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,293.0,293.0
+304,11044.0,Kustavi,Gustavs,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,304.0,304.0
+308,11045.0,Kuusjoki,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,308.0,308.0
+319,11046.0,Köyliö,Kjulo,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,319.0,319.0
+400,11047.0,Laitila,,Laitila kla,Laitilan kla,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,400.0,400.0
+406,11048.0,Lappi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,406.0,406.0
+413,11049.0,Lavia,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,413.0,413.0
+419,11050.0,Lemu,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,419.0,419.0
+423,11051.0,Lieto,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,423.0,423.0
+431,11052.0,Loimaan mlk,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,430.0,430.0
+432,11053.0,Lokalahti,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,432.0,432.0
+442,11054.0,Luvia,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,442.0,442.0
+477,11055.0,Maaria,St Marie,,Räntämäki,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,477.0,853.0
+480,11056.0,Marttila,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,480.0,480.0
+481,11057.0,Masku,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,481.0,481.0
+482,11058.0,Mellilä,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,482.0,482.0
+484,11059.0,Merikarvia,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,484.0,484.0
+485,11060.0,Merimasku,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,485.0,485.0
+487,11061.0,Metsämaa,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,487.0,487.0
+490,11062.0,Mietoinen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,490.0,490.0
+493,11063.0,Mouhijärvi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,493.0,493.0
+501,11064.0,Muurla,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,501.0,501.0
+503,11065.0,Mynämäki,Virmo,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,503.0,503.0
+530,11066.0,Naantalin mlk,Nädendals lk,Naantnali mlk,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,529.0,529.0
+531,11067.0,Nakkila,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,531.0,531.0
+533,11068.0,Nauvo,Nagu,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,533.0,533.0
+537,11069.0,Noormarkku,Norrmark,Normarkku,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,537.0,537.0
+538,11070.0,Nousiainen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,538.0,538.0
+561,11071.0,Oripää,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,561.0,561.0
+574,11072.0,Paattinen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,574.0,574.0
+577,11073.0,Paimio,Pemar,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,577.0,577.0
+573,11074.0,Paraisten mlk,Pargas lk,Parainen mlk,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,579.0,579.0
+581,11075.0,Parkano,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,581.0,581.0
+586,11076.0,Perniö,Bjärnä,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,586.0,586.0
+587,11077.0,Pertteli,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,587.0,587.0
+602,11078.0,Piikkiö,Pikis,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,602.0,602.0
+608,11079.0,Pomarkku,Pämark,,Poomarkku,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,608.0,608.0
+610,11080.0,Porin mlk,Björneborg lk,Pori mlk,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,609.0,609.0
+619,11081.0,Punkalaidun,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,619.0,619.0
+629,11082.0,Pyhämaa,,Pyhämaan luoto,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,629.0,629.0
+631,11083.0,Pyhäranta,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,631.0,631.0
+636,11084.0,Pöytyä,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,636.0,636.0
+680,11085.0,Raisio,Reso,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,680.0,680.0
+685,11086.0,Rauman mlk,Raumo lk,Rauma mlk,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,684.0,684.0
+704,11087.0,Rusko,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,704.0,704.0
+705,11088.0,Rymättylä,Rimito,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,705.0,705.0
+738,11089.0,Sauvo,Sagu,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,738.0,738.0
+747,11090.0,Siikainen,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,747.0,747.0
+772,11091.0,Suodenniemi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,772.0,772.0
+776,11092.0,Suomusjärvi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,776.0,776.0
+779,11093.0,Suoniemi,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,779.0,779.0
+783,11094.0,Säkylä,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,783.0,783.0
+784,11095.0,Särkisalo,Finby,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,784.0,784.0
+833,11096.0,Taivassalo,Tövsala,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,833.0,833.0
+838,11097.0,Tarvasjoki,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,838.0,838.0
+861,11098.0,Tyrvää,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,861.0,861.0
+886,11099.0,Ulvila,Ulvsby,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,886.0,886.0
+888,11100.0,Uskela,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,888.0,734.0
+896,11101.0,Uusikaupunki mlk,Nystad lk,Uudenkauppungit mlk,Uudenkaupungin mlk,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,895.0,895.0
+906,11102.0,Vahto,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,906.0,906.0
+913,11103.0,Vampula,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,913.0,913.0
+918,11104.0,Vehmaa,Vehmas,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,918.0,918.0
+920,11105.0,Velkua,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,920.0,920.0
+923,11106.0,Vestanfjärd,Västanfjärd,Westanfjärdi,Westanfjärd,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,923.0,923.0
+932,11107.0,Viljakkala,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,932.0,932.0
+979,11108.0,Yläne,,,,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,979.0,979.0
+478,20010.0,Maarianhamina,Mariehamn,,,Ahvenanmaa,Åland,Remain,1.0,478.0,170.0
+35,21001.0,Brändö,,,Brändöö,Ahvenanmaa,Åland,Remain,0.0,35.0,35.0
+43,21002.0,Eckerö,,,Ekkerö,Ahvenanmaa,Åland,Remain,0.0,43.0,43.0
+60,21003.0,Finström,,,,Ahvenanmaa,Åland,Remain,0.0,60.0,60.0
+62,21004.0,Föglö,,,Föglöö,Ahvenanmaa,Åland,Remain,0.0,62.0,62.0
+65,21005.0,Geta,,,Geeta,Ahvenanmaa,Åland,Remain,0.0,65.0,65.0
+76,21006.0,Hammarland,,,Hammarlanti,Ahvenanmaa,Åland,Remain,0.0,76.0,76.0
+170,21007.0,Jomala,,,,Ahvenanmaa,Åland,Remain,0.0,170.0,170.0
+295,21008.0,Kumlinge,,,Kumlinki,Ahvenanmaa,Åland,Remain,0.0,295.0,295.0
+318,21009.0,Kökar,,,Köökari,Ahvenanmaa,Åland,Remain,0.0,318.0,318.0
+417,21010.0,Lemland,,,Lemlanti,Ahvenanmaa,Åland,Remain,0.0,417.0,417.0
+438,21011.0,Lumparland,,,,Ahvenanmaa,Åland,Remain,0.0,438.0,438.0
+736,21012.0,Saltvik,,,,Ahvenanmaa,Åland,Remain,0.0,736.0,736.0
+766,21013.0,Sottunga,,,,Ahvenanmaa,Åland,Remain,0.0,766.0,766.0
+771,21014.0,Sund,,,,Ahvenanmaa,Åland,Remain,0.0,771.0,771.0
+941,21015.0,Vårdö,,,Wordöö,Ahvenanmaa,Åland,Remain,0.0,941.0,941.0
+109,30010.0,Hämeenlinna,Tavastehus,,,Hämeen lääni,Tavastehus län,Remain,1.0,109.0,109.0
+398,30020.0,Lahti,Lahtis,,,Hämeen lääni,Tavastehus län,Remain,1.0,398.0,398.0
+837,30031.0,Tampere,Tammerfors,,,Hämeen lääni,Tavastehus län,Remain,1.0,837.0,837.0
+61,30110.0,Forssa,,Forssa kla,Forssan kla,Hämeen lääni,Tavastehus län,Remain,1.0,61.0,61.0
+506,30120.0,Mänttä,,Mänttä kla,Mäntän kla,Hämeen lääni,Tavastehus län,Remain,1.0,506.0,506.0
+536,30130.0,Nokia,Nokian kla,Nokia kla,Pohjois_Pirkkala,Hämeen lääni,Tavastehus län,Remain,1.0,536.0,536.0
+694,30140.0,Riihimäki,,Riihimäki kla,Riihimäen kla,Hämeen lääni,Tavastehus län,Remain,1.0,694.0,694.0
+864,30150.0,Toijala,,Toijala kla,Toijalan kla,Hämeen lääni,Tavastehus län,Remain,1.0,864.0,864.0
+908,30160.0,Valkeakoski,,Valkeakoski kla,Valkeakosken kla,Hämeen lääni,Tavastehus län,Remain,1.0,908.0,908.0
+2,31001.0,Aitolahti,,,,Hämeen lääni,Tavastehus län,Remain,0.0,2.0,837.0
+16,31002.0,Asikkala,,,,Hämeen lääni,Tavastehus län,Remain,0.0,16.0,16.0
+48,31003.0,Eräjärvi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,48.0,48.0
+82,31004.0,Hattula,,,,Hämeen lääni,Tavastehus län,Remain,0.0,82.0,82.0
+83,31005.0,Hauho,,,,Hämeen lääni,Tavastehus län,Remain,0.0,83.0,83.0
+86,31006.0,Hausjärvi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,86.0,86.0
+98,31007.0,Hollola,,,,Hämeen lääni,Tavastehus län,Remain,0.0,98.0,398.0
+103,31008.0,Humppila,,,,Hämeen lääni,Tavastehus län,Remain,0.0,103.0,103.0
+165,31009.0,Janakkala,,,,Hämeen lääni,Tavastehus län,Remain,0.0,165.0,165.0
+169,31010.0,Jokioinen,,,,Hämeen lääni,Tavastehus län,Remain,0.0,169.0,169.0
+177,31011.0,Juupajoki,,,,Hämeen lääni,Tavastehus län,Remain,0.0,177.0,177.0
+182,31012.0,Jämsä,,,,Hämeen lääni,Tavastehus län,Remain,0.0,182.0,182.0
+183,31013.0,Jämsänkoski,,,,Hämeen lääni,Tavastehus län,Remain,0.0,183.0,183.0
+210,31014.0,Kalvola,,,,Hämeen lääni,Tavastehus län,Remain,0.0,210.0,210.0
+211,31015.0,Kangasala,,,,Hämeen lääni,Tavastehus län,Remain,0.0,211.0,211.0
+267,31016.0,Koijärvi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,267.0,267.0
+277,31017.0,Korpilahti,,,,Hämeen lääni,Tavastehus län,Remain,0.0,277.0,277.0
+282,31018.0,Koskenpää,,,,Hämeen lääni,Tavastehus län,Remain,0.0,282.0,282.0
+283,31019.0,Koski,Koski Hl,Hämeenkoski,Koski Hl,Hämeen lääni,Tavastehus län,Remain,0.0,283.0,283.0
+289,31020.0,Kuhmalahti,,,,Hämeen lääni,Tavastehus län,Remain,0.0,289.0,289.0
+291,31021.0,Kuhmoinen,,,,Hämeen lääni,Tavastehus län,Remain,0.0,291.0,291.0
+299,31022.0,Kuorevesi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,299.0,299.0
+303,31023.0,Kuru,,,,Hämeen lääni,Tavastehus län,Remain,0.0,303.0,303.0
+310,31024.0,Kylmäkoski,,,,Hämeen lääni,Tavastehus län,Remain,0.0,310.0,310.0
+316,31025.0,Kärkölä,,,,Hämeen lääni,Tavastehus län,Remain,0.0,316.0,316.0
+401,31026.0,Lammi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,401.0,401.0
+418,31027.0,Lempäälä,,,,Hämeen lääni,Tavastehus län,Remain,0.0,418.0,418.0
+433,31028.0,Loppi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,433.0,433.0
+439,31029.0,Luopioinen,,,,Hämeen lääni,Tavastehus län,Remain,0.0,439.0,439.0
+443,31030.0,Längelmäki,,,,Hämeen lääni,Tavastehus län,Remain,0.0,443.0,443.0
+500,31031.0,Muurame,,,,Hämeen lääni,Tavastehus län,Remain,0.0,500.0,500.0
+532,31032.0,Nastola,,,,Hämeen lääni,Tavastehus län,Remain,0.0,532.0,532.0
+562,31033.0,Orivesi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,562.0,562.0
+576,31034.0,Padasjoki,,,,Hämeen lääni,Tavastehus län,Remain,0.0,576.0,576.0
+604,31035.0,Pirkkala,,,Etelä_Pirkkala,Hämeen lääni,Tavastehus län,Remain,0.0,604.0,604.0
+637,31036.0,Pohjaslahti,,,,Hämeen lääni,Tavastehus län,Remain,0.0,637.0,637.0
+635,31037.0,Pälkäne,,,,Hämeen lääni,Tavastehus län,Remain,0.0,635.0,635.0
+692,31038.0,Renko,,,,Hämeen lääni,Tavastehus län,Remain,0.0,692.0,692.0
+702,31039.0,Ruovesi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,702.0,637.0
+730,31040.0,Sahalahti,,,,Hämeen lääni,Tavastehus län,Remain,0.0,730.0,730.0
+760,31041.0,Somerniemi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,760.0,760.0
+761,31042.0,Somero,,,,Hämeen lääni,Tavastehus län,Remain,0.0,761.0,761.0
+787,31043.0,Säynätsalo,,,,Hämeen lääni,Tavastehus län,Remain,0.0,787.0,787.0
+788,31044.0,Sääksmäki,,,,Hämeen lääni,Tavastehus län,Remain,0.0,788.0,908.0
+834,31045.0,Tammela,,,,Hämeen lääni,Tavastehus län,Remain,0.0,834.0,834.0
+840,31046.0,Teisko,,,,Hämeen lääni,Tavastehus län,Remain,0.0,840.0,840.0
+852,31047.0,Tottijärvi,,,,Hämeen lääni,Tavastehus län,Remain,0.0,852.0,852.0
+855,31048.0,Tuulos,,,,Hämeen lääni,Tavastehus län,Remain,0.0,855.0,855.0
+860,31049.0,Tyrväntö,,,,Hämeen lääni,Tavastehus län,Remain,0.0,860.0,860.0
+887,31050.0,Urjala,,,,Hämeen lääni,Tavastehus län,Remain,0.0,887.0,887.0
+914,31051.0,Vanaja,,,,Hämeen lääni,Tavastehus län,Remain,0.0,914.0,914.0
+922,31052.0,Vesilahti,,,,Hämeen lääni,Tavastehus län,Remain,0.0,922.0,922.0
+928,31053.0,Viiala,,,,Hämeen lääni,Tavastehus län,Remain,0.0,928.0,928.0
+933,31054.0,Vilppula,,,,Hämeen lääni,Tavastehus län,Remain,0.0,933.0,933.0
+980,31055.0,Ylöjärvi,,Ylöjärvi kla,Ylöjärven kla,Hämeen lääni,Tavastehus län,Remain,1.0,980.0,980.0
+981,31056.0,Ypäjä,,,Perttula,Hämeen lääni,Tavastehus län,Remain,0.0,981.0,981.0
+285,40010.0,Kotka,,,,Kymen lääni,Kymmene län,Remain,1.0,285.0,311.0
+75,40020.0,Hamina,Fredrikshamn,,,Kymen lääni,Kymmene län,Remain,1.0,75.0,75.0
+405,40030.0,Lappeenranta,Villmanstrand,Willmanstrand,,Kymen lääni,Kymmene län,Remain,1.0,405.0,404.0
+153,40110.0,Imatra,,Imatra kla,Imatran kla,Kymen lääni,Kymmene län,Remain,1.0,153.0,153.0
+201,40120.0,Karhula,,,,Kymen lääni,Kymmene län,Remain,1.0,201.0,311.0
+286,40130.0,Kouvola,,Kouvola kla,Kouvolan kla,Kymen lääni,Kymmene län,Remain,1.0,286.0,286.0
+411,40140.0,Lauritsala,,Lauritsala kla,Lauritsalan kla,Kymen lääni,Kymmene län,Remain,1.0,411.0,404.0
+12,41001.0,Anjala,,,,Kymen lääni,Kymmene län,Remain,0.0,12.0,12.0
+44,41002.0,Elimäki,,,,Kymen lääni,Kymmene län,Remain,0.0,44.0,44.0
+70,41003.0,Haapasaari,Aspö,,,Kymen lääni,Kymmene län,Remain,0.0,70.0,70.0
+142,41004.0,Iitti,,,,Kymen lääni,Kymmene län,Remain,0.0,142.0,142.0
+163,41005.0,Jaala,,,,Kymen lääni,Kymmene län,Remain,0.0,163.0,163.0
+173,41006.0,Joutseno,,,,Kymen lääni,Kymmene län,Remain,0.0,173.0,173.0
+306,41007.0,Kuusankoski,,,,Kymen lääni,Kymmene län,Remain,0.0,306.0,306.0
+311,41008.0,Kymi,Kymmene,,,Kymen lääni,Kymmene län,Remain,0.0,311.0,311.0
+404,41009.0,Lappee,,,,Kymen lääni,Kymmene län,Remain,0.0,404.0,404.0
+416,41010.0,Lemi,,,,Kymen lääni,Kymmene län,Remain,0.0,416.0,416.0
+441,41011.0,Luumäki,,,,Kymen lääni,Kymmene län,Remain,0.0,441.0,441.0
+489,41012.0,Miehikkälä,,,,Kymen lääni,Kymmene län,Remain,0.0,489.0,489.0
+539,241013.0,Nuijamaa,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,539.0,539.0
+580,241014.0,Parikkala,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,580.0,580.0
+624,41015.0,Pyhtää,Pyttis,,,Kymen lääni,Kymmene län,Remain,0.0,624.0,624.0
+689,241016.0,Rautjärvi,,,Rantjärvi,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,689.0,689.0
+700,41017.0,Ruokolahti,,,,Kymen lääni,Kymmene län,Remain,0.0,700.0,153.0
+728,241018.0,Saari,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,728.0,728.0
+739,41019.0,Savitaipale,,,,Kymen lääni,Kymmene län,Remain,0.0,739.0,739.0
+752,241020.0,Simpele,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,752.0,752.0
+754,41021.0,Sippola,,,,Kymen lääni,Kymmene län,Remain,0.0,754.0,754.0
+775,41022.0,Suomenniemi,,,,Kymen lääni,Kymmene län,Remain,0.0,775.0,775.0
+831,41023.0,Taipalsaari,,,,Kymen lääni,Kymmene län,Remain,0.0,831.0,831.0
+891,241024.0,Uukuniemi,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,891.0,891.0
+909,41025.0,Valkeala,,,,Kymen lääni,Kymmene län,Remain,0.0,286.0,286.0
+917,41026.0,Vehkalahti,,,,Kymen lääni,Kymmene län,Remain,0.0,75.0,75.0
+935,241027.0,Virolahti,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,935.0,935.0
+978,241028.0,Ylämaa,,,,Viipurin lääni,Viborgs län,Partially_Ceded,0.0,978.0,978.0
+491,50010.0,Mikkeli,St_Michel,,,Mikkelin lääni,St Michels län,Remain,1.0,491.0,491.0
+88,50020.0,Heinola,,,,Mikkelin lääni,St Michels län,Remain,1.0,88.0,88.0
+740,50030.0,Savonlinna,Nyslott,,Savolinna,Mikkelin lääni,St Michels län,Remain,1.0,740.0,740.0
+593,50110.0,Pieksämäki,Pieksämän kla,Pieksämäki kla,Pieksämäen kla,Mikkelin lääni,St Michels län,Remain,1.0,593.0,593.0
+14,51001.0,Anttola,,,,Mikkelin lääni,St Michels län,Remain,0.0,14.0,14.0
+46,51002.0,Enonkoski,,,,Mikkelin lääni,St Michels län,Remain,0.0,46.0,46.0
+81,51003.0,Hartola,,,,Mikkelin lääni,St Michels län,Remain,0.0,81.0,81.0
+85,51004.0,Haukivuori,,,,Mikkelin lääni,St Michels län,Remain,0.0,85.0,85.0
+89,51005.0,Heinolan mlk,Heinola lk,Heinola mlk,,Mikkelin lääni,St Michels län,Remain,0.0,88.0,88.0
+90,51006.0,Heinävesi,,,,Mikkelin lääni,St Michels län,Remain,0.0,90.0,90.0
+97,51007.0,Hirvensalmi,,,,Mikkelin lääni,St Michels län,Remain,0.0,97.0,97.0
+171,51008.0,Joroinen,Jorois,,,Mikkelin lääni,St Michels län,Remain,0.0,171.0,171.0
+172,51009.0,Joutsa,,,,Mikkelin lääni,St Michels län,Remain,0.0,172.0,172.0
+178,51010.0,Juva,Jockas,,,Mikkelin lääni,St Michels län,Remain,0.0,178.0,178.0
+184,51011.0,Jäppilä,,,,Mikkelin lääni,St Michels län,Remain,0.0,184.0,184.0
+212,51012.0,Kangaslampi,,,,Mikkelin lääni,St Michels län,Remain,0.0,212.0,212.0
+213,51013.0,Kangasniemi,,,,Mikkelin lääni,St Michels län,Remain,0.0,213.0,213.0
+246,51014.0,Kerimäki,,,,Mikkelin lääni,St Michels län,Remain,0.0,246.0,246.0
+415,51015.0,Leivonmäki,,,,Mikkelin lääni,St Michels län,Remain,0.0,415.0,415.0
+435,51016.0,Luhanka,,,,Mikkelin lääni,St Michels län,Remain,0.0,435.0,435.0
+492,51017.0,Mikkelin mlk,St_Michels lk,Mikkeli mlk,,Mikkelin lääni,St Michels län,Remain,0.0,491.0,491.0
+507,51018.0,Mäntyharju,,,,Mikkelin lääni,St Michels län,Remain,0.0,507.0,507.0
+588,51019.0,Pertunmaa,,,,Mikkelin lääni,St Michels län,Remain,0.0,588.0,588.0
+594,51020.0,Pieksämäen mlk,Pieksämäki lk,Pieksämäki mlk,,Mikkelin lääni,St Michels län,Remain,0.0,593.0,593.0
+618,51021.0,Punkaharju,,,,Mikkelin lääni,St Michels län,Remain,0.0,618.0,618.0
+623,51022.0,Puumala,,,,Mikkelin lääni,St Michels län,Remain,0.0,623.0,623.0
+681,51023.0,Rantasalmi,,,,Mikkelin lääni,St Michels län,Remain,0.0,681.0,681.0
+696,51024.0,Ristiina,,,,Mikkelin lääni,St Michels län,Remain,0.0,696.0,696.0
+741,51025.0,Savonranta,,,,Mikkelin lääni,St Michels län,Remain,0.0,741.0,741.0
+768,51026.0,Sulkava,,,,Mikkelin lääni,St Michels län,Remain,0.0,768.0,768.0
+781,51027.0,Sysmä,,,,Mikkelin lääni,St Michels län,Remain,0.0,781.0,781.0
+789,51028.0,Sääminki,,,,Mikkelin lääni,St Michels län,Remain,0.0,740.0,740.0
+937,51029.0,Virtasalmi,,,,Mikkelin lääni,St Michels län,Remain,0.0,937.0,937.0
+297,60010.0,Kuopio,,,,Kuopion lääni,Kuopio län,Remain,1.0,297.0,297.0
+140,60020.0,Iisalmi,,,,Kuopion lääni,Kuopio län,Remain,1.0,140.0,140.0
+167,60030.0,Joensuu,,,,Kuopion lääni,Kuopio län,Remain,1.0,167.0,167.0
+422,60110.0,Lieksa,,Lieksa kla,Lieksan kla,Kuopion lääni,Kuopio län,Remain,1.0,422.0,597.0
+541,60120.0,Nurmes,,Nurmes kla,Nurmeksen kla,Kuopion lääni,Kuopio län,Remain,1.0,541.0,541.0
+915,60130.0,Varkaus,,Varkaus kla,Varkauden kla,Kuopion lääni,Kuopio län,Remain,1.0,915.0,915.0
+45,61001.0,Eno,,,,Kuopion lääni,Kuopio län,Remain,0.0,45.0,45.0
+77,61002.0,Hankasalmi,,,,Kuopion lääni,Kuopio län,Remain,0.0,77.0,77.0
+141,61003.0,Iisalmen mlk,,Iisalmi mlk,,Kuopion lääni,Kuopio län,Remain,0.0,140.0,140.0
+146,261004.0,Ilomantsi,Ilomants,,,Kuopion lääni,Kuopio län,Partially_Ceded,0.0,146.0,146.0
+174,61005.0,Juankoski,,,Juuankoski,Kuopion lääni,Kuopio län,Remain,0.0,174.0,174.0
+176,61006.0,Juuka,,,,Kuopion lääni,Kuopio län,Remain,0.0,176.0,176.0
+204,61007.0,Kaavi,,,,Kuopion lääni,Kuopio län,Remain,0.0,204.0,204.0
+227,61008.0,Karttula,,,,Kuopion lääni,Kuopio län,Remain,0.0,227.0,227.0
+239,61009.0,Keitele,,,,Kuopion lääni,Kuopio län,Remain,0.0,239.0,239.0
+248,61010.0,Kesälahti,,,,Kuopion lääni,Kuopio län,Remain,0.0,248.0,248.0
+251,61011.0,Kiihtelysvaara,,,,Kuopion lääni,Kuopio län,Remain,0.0,251.0,251.0
+260,261012.0,Kitee,,,,Kuopion lääni,Kuopio län,Partially_Ceded,0.0,260.0,260.0
+263,61013.0,Kiuruvesi,,,,Kuopion lääni,Kuopio län,Remain,0.0,263.0,263.0
+275,61014.0,Konnevesi,,,,Kuopion lääni,Kuopio län,Remain,0.0,275.0,275.0
+276,61015.0,Kontiolahti,,,,Kuopion lääni,Kuopio län,Remain,0.0,276.0,276.0
+298,61016.0,Kuopion mlk,,Kuopio mlk,,Kuopion lääni,Kuopio län,Remain,0.0,297.0,297.0
+309,61017.0,Kuusjärvi,,,Outokumpu,Kuopion lääni,Kuopio län,Remain,0.0,309.0,309.0
+402,61018.0,Lapinlahti,,,,Kuopion lääni,Kuopio län,Remain,0.0,402.0,402.0
+420,61019.0,Leppävirta,,,,Kuopion lääni,Kuopio län,Remain,0.0,420.0,420.0
+426,61020.0,Liperi,Libelits,,,Kuopion lääni,Kuopio län,Remain,0.0,426.0,426.0
+476,61021.0,Maaninka,,,,Kuopion lääni,Kuopio län,Remain,0.0,476.0,476.0
+502,61022.0,Muuruvesi,,,,Kuopion lääni,Kuopio län,Remain,0.0,502.0,502.0
+534,61023.0,Nilsiä,,,,Kuopion lääni,Kuopio län,Remain,0.0,534.0,534.0
+542,61024.0,Nurmeksen mlk,Nurmes lk,Nurmes mlk,,Kuopion lääni,Kuopio län,Remain,0.0,541.0,541.0
+595,61025.0,Pielavesi,,,,Kuopion lääni,Kuopio län,Remain,0.0,595.0,595.0
+596,61026.0,Pielisensuu,,,,Kuopion lääni,Kuopio län,Remain,0.0,596.0,167.0
+597,61027.0,Pielisjärvi,,,,Kuopion lääni,Kuopio län,Remain,0.0,597.0,597.0
+607,61028.0,Polvijärvi,,,,Kuopion lääni,Kuopio län,Remain,0.0,607.0,607.0
+632,61029.0,Pyhäselkä,,,,Kuopion lääni,Kuopio län,Remain,0.0,632.0,632.0
+686,61030.0,Rautalampi,,,,Kuopion lääni,Kuopio län,Remain,0.0,686.0,686.0
+687,61031.0,Rautavaara,,,,Kuopion lääni,Kuopio län,Remain,0.0,687.0,687.0
+695,61032.0,Riistavesi,,,,Kuopion lääni,Kuopio län,Remain,0.0,695.0,695.0
+707,61033.0,Rääkkylä,,,,Kuopion lääni,Kuopio län,Remain,0.0,707.0,707.0
+749,61034.0,Siilinjärvi,,,,Kuopion lääni,Kuopio län,Remain,0.0,749.0,749.0
+762,61035.0,Sonkajärvi,,,,Kuopion lääni,Kuopio län,Remain,0.0,762.0,762.0
+778,61036.0,Suonenjoki,,,Suonnejoki,Kuopion lääni,Kuopio län,Remain,0.0,778.0,778.0
+786,61037.0,Säyneinen,,,,Kuopion lääni,Kuopio län,Remain,0.0,786.0,786.0
+844,61038.0,Tervo,,,,Kuopion lääni,Kuopio län,Remain,0.0,844.0,844.0
+848,61039.0,Tohmajärvi,,,,Kuopion lääni,Kuopio län,Remain,0.0,848.0,848.0
+856,61040.0,Tuupovaara,,,Kovero,Kuopion lääni,Kuopio län,Remain,0.0,856.0,856.0
+857,61041.0,Tuusniemi,,,,Kuopion lääni,Kuopio län,Remain,0.0,857.0,857.0
+911,61042.0,Valtimo,,,,Kuopion lääni,Kuopio län,Remain,0.0,911.0,911.0
+916,61043.0,Varpaisjärvi,,,,Kuopion lääni,Kuopio län,Remain,0.0,916.0,916.0
+919,61044.0,Vehmersalmi,,,,Kuopion lääni,Kuopio län,Remain,0.0,919.0,919.0
+921,61045.0,Vesanto,,,,Kuopion lääni,Kuopio län,Remain,0.0,921.0,921.0
+925,61046.0,Vieremä,,,,Kuopion lääni,Kuopio län,Remain,0.0,925.0,925.0
+943,261047.0,Värtsilä,,,,Kuopion lääni,Kuopio län,Partially_Ceded,0.0,943.0,943.0
+905,70010.0,Vaasa,Vasa,,,Vaasan lääni,Vasa län,Remain,1.0,905.0,905.0
+179,70020.0,Jyväskylä,,,,Vaasan lääni,Vasa län,Remain,1.0,179.0,179.0
+231,70030.0,Kaskinen,Kaskö,,,Vaasan lääni,Vasa län,Remain,1.0,231.0,231.0
+272,70040.0,Kokkola,Gamlakarleby,,,Vaasan lääni,Vasa län,Remain,1.0,272.0,272.0
+287,70050.0,Kristiinankaupunki,Kristinestad,Kristiinankaupunki kla,Kristiinankaupungin kla,Vaasan lääni,Vasa län,Remain,1.0,287.0,287.0
+598,70060.0,Pietarsaari,Jakobstad,,,Vaasan lääni,Vasa län,Remain,1.0,598.0,598.0
+893,70070.0,Uusikaarlepyy,Nykarleby,,Uusikaarleby,Vaasan lääni,Vasa län,Remain,1.0,893.0,893.0
+743,70110.0,Seinäjoki,,Seinäjoki kla,Seinäjoen kla,Vaasan lääni,Vasa län,Remain,1.0,743.0,743.0
+774,70120.0,Suolahti,,Suolahti kla,Suolahden kla,Vaasan lääni,Vasa län,Remain,1.0,992.0,992.0
+992,70130.0,Äänekoski,,Äänekoski kla,Äänekosken kla,Vaasan lääni,Vasa län,Remain,1.0,992.0,992.0
+4,71001.0,Alahärmä,,,Ahla härmä,Vaasan lääni,Vasa län,Remain,0.0,4.0,4.0
+5,71002.0,Alajärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,5.0,5.0
+8,71003.0,Alaveteli,Nedervetil,,,Vaasan lääni,Vasa län,Remain,0.0,8.0,8.0
+10,71004.0,Alavus,Alavo,,,Vaasan lääni,Vasa län,Remain,0.0,10.0,10.0
+32,71005.0,Bergö,Bergöö,,,Vaasan lääni,Vasa län,Remain,0.0,32.0,32.0
+33,71006.0,Björköby,,,Björkby,Vaasan lääni,Vasa län,Remain,0.0,33.0,679.0
+52,71007.0,Evijärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,52.0,52.0
+74,71008.0,Halsua,,,,Vaasan lääni,Vasa län,Remain,0.0,74.0,74.0
+95,71009.0,Himanka,,,,Vaasan lääni,Vasa län,Remain,0.0,95.0,95.0
+145,71010.0,Ilmajoki,,,,Vaasan lääni,Vasa län,Remain,0.0,145.0,145.0
+151,71011.0,Isojoki,Storå,,,Vaasan lääni,Vasa län,Remain,0.0,151.0,151.0
+152,71012.0,Isokyrö,Storkyro,,,Vaasan lääni,Vasa län,Remain,0.0,152.0,152.0
+164,71013.0,Jalasjärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,164.0,164.0
+166,71014.0,Jepua,Jeppo,,,Vaasan lääni,Vasa län,Remain,0.0,166.0,166.0
+175,71015.0,Jurva,,,,Vaasan lääni,Vasa län,Remain,0.0,175.0,175.0
+180,71016.0,Jyväskylän mlk,Jyväskylä lk,Jyväskylä mlk,,Vaasan lääni,Vasa län,Remain,0.0,179.0,179.0
+203,71017.0,Kaarlela,Karleby,Kokkolan mlk,,Vaasan lääni,Vasa län,Remain,0.0,203.0,203.0
+216,71018.0,Kannonkoski,,,,Vaasan lääni,Vasa län,Remain,0.0,216.0,265.0
+217,71019.0,Kannus,,,,Vaasan lääni,Vasa län,Remain,0.0,217.0,217.0
+218,71020.0,Karijoki,Bötom,,,Vaasan lääni,Vasa län,Remain,0.0,218.0,218.0
+226,71021.0,Karstula,,,,Vaasan lääni,Vasa län,Remain,0.0,226.0,226.0
+232,71022.0,Kauhajoki,,,,Vaasan lääni,Vasa län,Remain,0.0,232.0,232.0
+233,71023.0,Kauhava,,,,Vaasan lääni,Vasa län,Remain,0.0,233.0,233.0
+236,71024.0,Kaustinen,Kaustby,,,Vaasan lääni,Vasa län,Remain,0.0,236.0,236.0
+249,71025.0,Keuruu,,,Keuru,Vaasan lääni,Vasa län,Remain,0.0,249.0,249.0
+256,71026.0,Kinnula,,,,Vaasan lääni,Vasa län,Remain,0.0,256.0,256.0
+265,71027.0,Kivijärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,265.0,265.0
+270,71028.0,Koivulahti,Kvevlax,Kvevlaks,,Vaasan lääni,Vasa län,Remain,0.0,270.0,270.0
+274,71029.0,Konginkangas,,,,Vaasan lääni,Vasa län,Remain,0.0,274.0,274.0
+280,71030.0,Korsnäs,,,Korsnääsi,Vaasan lääni,Vasa län,Remain,0.0,280.0,280.0
+281,71031.0,Kortesjärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,281.0,281.0
+288,71032.0,Kruunupyy,Kronoby,,,Vaasan lääni,Vasa län,Remain,0.0,288.0,288.0
+300,71033.0,Kuortane,,,,Vaasan lääni,Vasa län,Remain,0.0,300.0,300.0
+301,71034.0,Kurikka,,,,Vaasan lääni,Vasa län,Remain,0.0,301.0,301.0
+312,71035.0,Kyyjärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,312.0,226.0
+315,71036.0,Kälviä,,,,Vaasan lääni,Vasa län,Remain,0.0,315.0,315.0
+399,71037.0,Laihia,,,,Vaasan lääni,Vasa län,Remain,0.0,399.0,399.0
+403,71038.0,Lappajärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,403.0,403.0
+408,71039.0,Lapua,Lappo,,,Vaasan lääni,Vasa län,Remain,0.0,408.0,408.0
+409,71040.0,Lapväärtti,Lappfjärd,,Lapväärti,Vaasan lääni,Vasa län,Remain,0.0,409.0,409.0
+410,71041.0,Laukaa,,,,Vaasan lääni,Vasa län,Remain,0.0,410.0,410.0
+414,71042.0,Lehtimäki,,,,Vaasan lääni,Vasa län,Remain,0.0,414.0,414.0
+421,71043.0,Lestijärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,421.0,421.0
+429,71044.0,Lohtaja,,,,Vaasan lääni,Vasa län,Remain,0.0,429.0,429.0
+440,71045.0,Luoto,Larsmo,,,Vaasan lääni,Vasa län,Remain,0.0,440.0,440.0
+475,71046.0,Maalahti,Malax,Malaks,,Vaasan lääni,Vasa län,Remain,0.0,475.0,475.0
+479,71047.0,Maksamaa,Maxmo,,,Vaasan lääni,Vasa län,Remain,0.0,479.0,479.0
+495,71048.0,Multia,,,,Vaasan lääni,Vasa län,Remain,0.0,495.0,495.0
+496,71049.0,Munsala,,,,Vaasan lääni,Vasa län,Remain,0.0,496.0,496.0
+499,71050.0,Mustasaari,Korsholm,,,Vaasan lääni,Vasa län,Remain,0.0,499.0,499.0
+544,71051.0,Nurmo,,,,Vaasan lääni,Vasa län,Remain,0.0,544.0,544.0
+545,71052.0,Närpiö,Närpes,,,Vaasan lääni,Vasa län,Remain,0.0,545.0,545.0
+559,71053.0,Oravainen,Oravais,,,Vaasan lääni,Vasa län,Remain,0.0,559.0,559.0
+584,71054.0,Perho,,,,Vaasan lääni,Vasa län,Remain,0.0,584.0,584.0
+589,71055.0,Peräseinäjoki,,,,Vaasan lääni,Vasa län,Remain,0.0,589.0,589.0
+590,71056.0,Petolahti,Petalax,Petalaks,,Vaasan lääni,Vasa län,Remain,0.0,590.0,590.0
+592,71057.0,Petäjävesi,,,,Vaasan lääni,Vasa län,Remain,0.0,592.0,592.0
+599,71058.0,Pietarsaaren mlk,Pedersöre,Pietarsaari mlk,Pedersören kunta,Vaasan lääni,Vasa län,Remain,0.0,598.0,598.0
+600,71059.0,Pihlajavesi,,,,Vaasan lääni,Vasa län,Remain,0.0,600.0,600.0
+601,71060.0,Pihtipudas,,,,Vaasan lääni,Vasa län,Remain,0.0,601.0,601.0
+605,71061.0,Pirttikylä,Pörtom,,,Vaasan lääni,Vasa län,Remain,0.0,605.0,605.0
+621,71062.0,Purmo,,,,Vaasan lääni,Vasa län,Remain,0.0,621.0,621.0
+633,71063.0,Pylkönmäki,,,,Vaasan lääni,Vasa län,Remain,0.0,633.0,633.0
+679,71064.0,Raippaluoto,Replot,,,Vaasan lääni,Vasa län,Remain,0.0,679.0,679.0
+729,71065.0,Saarijärvi,,,,Vaasan lääni,Vasa län,Remain,0.0,729.0,729.0
+744,71066.0,Seinäjoki mlk,,Seinäjoen mlk,,Vaasan lääni,Vasa län,Remain,0.0,743.0,743.0
+750,71067.0,Siipyy,Sideby,,Sidebyy,Vaasan lääni,Vasa län,Remain,0.0,750.0,750.0
+759,71068.0,Soini,,,,Vaasan lääni,Vasa län,Remain,0.0,759.0,759.0
+769,71069.0,Sulva,Solf,,Solv,Vaasan lääni,Vasa län,Remain,0.0,769.0,769.0
+770,71070.0,Sumiainen,,,,Vaasan lääni,Vasa län,Remain,0.0,770.0,770.0
+839,71071.0,Teerijärvi,Terjärv,,,Vaasan lääni,Vasa län,Remain,0.0,839.0,839.0
+846,71072.0,Teuva,Östermark,,,Vaasan lääni,Vasa län,Remain,0.0,846.0,846.0
+847,71073.0,Tiukka,Tjöck,Kristiinankaupungit mlk,Kristiinankaupungin mlk,Vaasan lääni,Vasa län,Remain,0.0,847.0,847.0
+849,71074.0,Toholampi,,,,Vaasan lääni,Vasa län,Remain,0.0,849.0,849.0
+850,71075.0,Toivakka,,,,Vaasan lääni,Vasa län,Remain,0.0,850.0,850.0
+863,71076.0,Töysä,,,,Vaasan lääni,Vasa län,Remain,0.0,863.0,863.0
+885,71077.0,Ullava,,,,Vaasan lääni,Vasa län,Remain,0.0,885.0,885.0
+894,71078.0,Uudenkaarlepyyn mlk,Nykarleby lk,Uudenkaariepyy mlk,Uudenkaariepyyn mlk,Vaasan lääni,Vasa län,Remain,0.0,893.0,893.0
+892,71079.0,Uurainen,,,,Vaasan lääni,Vasa län,Remain,0.0,892.0,892.0
+924,71080.0,Veteli,Vetil,,,Vaasan lääni,Vasa län,Remain,0.0,924.0,924.0
+931,71081.0,Viitasaari,,,,Vaasan lääni,Vasa län,Remain,0.0,931.0,931.0
+934,71082.0,Vimpeli,Vindala,,,Vaasan lääni,Vasa län,Remain,0.0,934.0,934.0
+936,71083.0,Virrat,Virdois,,,Vaasan lääni,Vasa län,Remain,0.0,936.0,936.0
+942,71084.0,Vähäkyrö,Lillkyro,,,Vaasan lääni,Vasa län,Remain,0.0,942.0,942.0
+944,71085.0,Vöyri,Vörä,Vörå,Vörå,Vaasan lääni,Vasa län,Remain,0.0,944.0,944.0
+971,71086.0,Ylihärmä,,,,Vaasan lääni,Vasa län,Remain,0.0,971.0,971.0
+974,71087.0,Ylimarkku,Övermark,Övermarkku,,Vaasan lääni,Vasa län,Remain,0.0,974.0,974.0
+975,71088.0,Ylistaro,,,,Vaasan lääni,Vasa län,Remain,0.0,975.0,975.0
+989,71089.0,Ähtäri,,,Ätsäri,Vaasan lääni,Vasa län,Remain,0.0,989.0,989.0
+990,71090.0,Ähtävä,Esse,,,Vaasan lääni,Vasa län,Remain,0.0,990.0,990.0
+993,71091.0,Äänekosken mlk,,Äänekoski mlk,,Vaasan lääni,Vasa län,Remain,0.0,992.0,992.0
+997,71092.0,Öja,,,,Vaasan lääni,Vasa län,Remain,0.0,997.0,288.0
+564,80010.0,Oulu,Uleåborg,,,Oulun lääni,Uleåborgs län,Remain,1.0,564.0,564.0
+205,80020.0,Kajaani,,,,Oulun lääni,Uleåborgs län,Remain,1.0,205.0,205.0
+678,80030.0,Raahe,Brahestad,,,Oulun lääni,Uleåborgs län,Remain,1.0,678.0,678.0
+9,81001.0,Alavieska,,,,Oulun lääni,Uleåborgs län,Remain,0.0,9.0,9.0
+69,81002.0,Haapajärvi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,69.0,69.0
+71,81003.0,Haapavesi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,71.0,71.0
+72,81004.0,Hailuoto,Karlö,,,Oulun lääni,Uleåborgs län,Remain,0.0,72.0,72.0
+84,81005.0,Haukipudas,,,,Oulun lääni,Uleåborgs län,Remain,0.0,84.0,84.0
+105,81006.0,Hyrynsalmi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,105.0,105.0
+139,81007.0,Ii,,,,Oulun lääni,Uleåborgs län,Remain,0.0,139.0,139.0
+206,81008.0,Kajaanin mlk,Kajaani lk,Kajaani mlk,,Oulun lääni,Uleåborgs län,Remain,0.0,205.0,205.0
+208,81009.0,Kalajoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,208.0,208.0
+244,81010.0,Kempele,,,,Oulun lääni,Uleåborgs län,Remain,0.0,244.0,244.0
+247,81011.0,Kestilä,,,,Oulun lääni,Uleåborgs län,Remain,0.0,247.0,247.0
+255,81012.0,Kiiminki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,255.0,255.0
+290,81013.0,Kuhmo,,,Kuhmoniemi,Oulun lääni,Uleåborgs län,Remain,0.0,290.0,290.0
+292,81014.0,Kuivaniemi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,292.0,292.0
+305,381015.0,Kuusamo,,,,Oulun lääni,Uleåborgs län,North_Partially_Ceded,0.0,305.0,305.0
+317,81016.0,Kärsämäki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,317.0,317.0
+425,81017.0,Liminka,,,,Oulun lääni,Uleåborgs län,Remain,0.0,425.0,425.0
+436,81018.0,Lumijoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,436.0,436.0
+483,81019.0,Merijärvi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,483.0,483.0
+494,81020.0,Muhos,,,,Oulun lääni,Uleåborgs län,Remain,0.0,494.0,494.0
+535,81021.0,Nivala,,,,Oulun lääni,Uleåborgs län,Remain,0.0,535.0,535.0
+563,81022.0,Oulainen,,,,Oulun lääni,Uleåborgs län,Remain,0.0,563.0,563.0
+565,81023.0,Oulujoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,565.0,565.0
+567,81024.0,Oulunsalo,,,,Oulun lääni,Uleåborgs län,Remain,0.0,567.0,567.0
+575,81025.0,Paavola,,,,Oulun lääni,Uleåborgs län,Remain,0.0,575.0,575.0
+578,81026.0,Paltamo,,,,Oulun lääni,Uleåborgs län,Remain,0.0,578.0,578.0
+582,81027.0,Pattijoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,582.0,582.0
+603,81028.0,Piippola,,,,Oulun lääni,Uleåborgs län,Remain,0.0,603.0,603.0
+615,81029.0,Pudasjärvi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,615.0,615.0
+617,81030.0,Pulkkila,,,,Oulun lääni,Uleåborgs län,Remain,0.0,617.0,617.0
+620,81031.0,Puolanka,,,,Oulun lääni,Uleåborgs län,Remain,0.0,620.0,620.0
+625,81032.0,Pyhäjoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,625.0,625.0
+626,81033.0,Pyhäjärvi,,,Pyhäjärvi O,Oulun lääni,Uleåborgs län,Remain,0.0,626.0,626.0
+630,81034.0,Pyhäntä,,,,Oulun lääni,Uleåborgs län,Remain,0.0,630.0,630.0
+682,81035.0,Rantsila,,,,Oulun lääni,Uleåborgs län,Remain,0.0,682.0,682.0
+688,81036.0,Rautio,,,,Oulun lääni,Uleåborgs län,Remain,0.0,688.0,688.0
+691,81037.0,Reisjärvi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,691.0,691.0
+693,81038.0,Revonlahti,Revolax,Revolaks,,Oulun lääni,Uleåborgs län,Remain,0.0,693.0,693.0
+697,81039.0,Ristijärvi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,697.0,697.0
+735,81040.0,Saloinen,,,,Oulun lääni,Uleåborgs län,Remain,0.0,735.0,735.0
+746,81041.0,Sievi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,746.0,746.0
+748,81042.0,Siikajoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,748.0,748.0
+765,81043.0,Sotkamo,,,,Oulun lääni,Uleåborgs län,Remain,0.0,765.0,765.0
+777,81044.0,Suomussalmi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,777.0,777.0
+785,81045.0,Säräisniemi,,,Vaala,Oulun lääni,Uleåborgs län,Remain,0.0,785.0,889.0
+832,81046.0,Taivalkoski,,,,Oulun lääni,Uleåborgs län,Remain,0.0,832.0,832.0
+841,81047.0,Temmes,,,,Oulun lääni,Uleåborgs län,Remain,0.0,841.0,841.0
+859,81048.0,Tyrnävä,,,,Oulun lääni,Uleåborgs län,Remain,0.0,859.0,859.0
+889,81049.0,Utajärvi,,,,Oulun lääni,Uleåborgs län,Remain,0.0,889.0,889.0
+926,81050.0,Vihanti,,,,Oulun lääni,Uleåborgs län,Remain,0.0,926.0,926.0
+940,81051.0,Vuolijoki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,940.0,940.0
+972,81052.0,Yli-Ii,,,,Oulun lääni,Uleåborgs län,Remain,0.0,972.0,139.0
+973,81053.0,Ylikiiminki,,,,Oulun lääni,Uleåborgs län,Remain,0.0,973.0,973.0
+977,81054.0,Ylivieska,,,,Oulun lääni,Uleåborgs län,Remain,0.0,977.0,977.0
+240,90010.0,Kemi,,,,Lapin lääni,Lapplans län,Remain,1.0,240.0,240.0
+851,90020.0,Tornio,Torneä,,,Lapin lääni,Lapplans län,Remain,1.0,7.0,7.0
+698,90110.0,Rovaniemi,,Rovaniemi kla,Rovaniemen kla,Lapin lääni,Lapplans län,Remain,1.0,698.0,698.0
+7,91001.0,Alatornio,Nedertomeä,,Nedertorneä,Lapin lääni,Lapplans län,Remain,0.0,7.0,7.0
+47,91002.0,Enontekiö,,,,Lapin lääni,Lapplans län,Remain,0.0,47.0,47.0
+148,91003.0,Inari,Enare,,,Lapin lääni,Lapplans län,Remain,0.0,148.0,148.0
+229,91004.0,Karunki,,,,Lapin lääni,Lapplans län,Remain,0.0,229.0,229.0
+320,91005.0,Kemijärvi,,Kemijärvi kla,Kemijärven kla,Lapin lääni,Lapplans län,Remain,1.0,242.0,242.0
+241,91006.0,Kemin mlk,Kemi lk,Kemi mlk,Keminmaa,Lapin lääni,Lapplans län,Remain,0.0,240.0,240.0
+261,91007.0,Kittilä,,,,Lapin lääni,Lapplans län,Remain,0.0,261.0,261.0
+273,91008.0,Kolari,,,,Lapin lääni,Lapplans län,Remain,0.0,273.0,273.0
+498,91009.0,Muonio,,Muonionniska,Muonioniska,Lapin lääni,Lapplans län,Remain,0.0,498.0,498.0
+583,91010.0,Pelkosenniemi,,,,Lapin lääni,Lapplans län,Remain,0.0,583.0,583.0
+854,91011.0,Pello,,,Turtola,Lapin lääni,Lapplans län,Remain,0.0,854.0,854.0
+614,91012.0,Posio,,,,Lapin lääni,Lapplans län,Remain,0.0,614.0,614.0
+683,91013.0,Ranua,,,,Lapin lääni,Lapplans län,Remain,0.0,683.0,683.0
+699,91014.0,Rovaniemen mlk,Rovaniemi lk,Rovaniemi mlk,,Lapin lääni,Lapplans län,Remain,0.0,698.0,698.0
+732,391015.0,Salla,,,Kuolajärvi,Lapin lääni,Lapplans län,North_Partially_Ceded,0.0,732.0,732.0
+742,91016.0,Savukoski,,,,Lapin lääni,Lapplans län,Remain,0.0,742.0,583.0
+751,91017.0,Simo,,,,Lapin lääni,Lapplans län,Remain,0.0,751.0,751.0
+758,91018.0,Sodankylä,,,,Lapin lääni,Lapplans län,Remain,0.0,758.0,758.0
+845,91019.0,Tervola,,,,Lapin lääni,Lapplans län,Remain,0.0,845.0,845.0
+890,91020.0,Utsjoki,,,,Lapin lääni,Lapplans län,Remain,0.0,890.0,890.0
+976,91021.0,Ylitornio,Övertorneä,,,Lapin lääni,Lapplans län,Remain,0.0,976.0,976.0
+313,500019.0,Kärkisalmi,Käkisalmi,,Käkisalmi,Viipurin lääni,Viborgs län,Viipuri_Ceded,1.0,313.0,313.0
+763,500036.0,Sortavala,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,1.0,763.0,763.0
+929,500047.0,Viipuri,Viborg,,Wiipuri,Viipurin lääni,Viborgs län,Viipuri_Ceded,1.0,929.0,929.0
+268,500114.0,Koivisto,,Koivisto kla,Koiviston kla,Viipurin lääni,Viborgs län,Viipuri_Ceded,1.0,268.0,268.0
+397,500121.0,Lahdenpohja,,Lahdenpohja kla,Lahdenpohjan kla,Viipurin lääni,Viborgs län,Viipuri_Ceded,1.0,162.0,162.0
+13,501001.0,Antrea,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,13.0,13.0
+80,501003.0,Harlu,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,80.0,80.0
+87,501004.0,Heinjoki,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,87.0,87.0
+93,501005.0,Hiitola,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,93.0,93.0
+147,501006.0,Impilahti,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,147.0,147.0
+162,501007.0,Jaakkima,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,162.0,162.0
+168,501008.0,Johannes,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,168.0,168.0
+185,501009.0,Jääski,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,185.0,185.0
+215,501010.0,Kanneljärvi,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,215.0,215.0
+234,501011.0,Kaukola,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,234.0,234.0
+258,501012.0,Kirvu,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,258.0,258.0
+264,501013.0,Kivennapa,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,264.0,264.0
+269,501015.0,Koviston mlk,,Koivisto mlk,Koiviston mlk,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,268.0,268.0
+278,501016.0,Korpiselkä,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,278.0,278.0
+296,501017.0,Kuolemajärvi,,,Kuolemanjärvi,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,296.0,296.0
+302,501018.0,Kurkijoki,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,302.0,302.0
+314,501020.0,Käkisalmen mlk,,Käkisalmi mlk,Kärkisalmen mlk,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,313.0,313.0
+437,501023.0,Lumivaara,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,437.0,437.0
+488,501024.0,Metsäpirtti,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,488.0,488.0
+497,501025.0,Muolaa,,,Muola,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,497.0,497.0
+628,501027.0,Pyhäjärvi,Pyhäjärvi Viip,,Pyhäjärvi Viip,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,628.0,628.0
+634,501028.0,Pälkjärvi,,,,Kuopion lääni,Kuopio län,Viipuri_Ceded,0.0,634.0,634.0
+690,501029.0,Rautu,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,690.0,690.0
+703,501030.0,Ruskeala,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,703.0,703.0
+706,501031.0,Räisälä,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,706.0,706.0
+731,501032.0,Sakkola,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,731.0,731.0
+733,501033.0,Salmi,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,733.0,733.0
+757,501035.0,Soanlahti,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,757.0,757.0
+764,501037.0,Sortavalan mlk,,Sortavala mlk,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,763.0,763.0
+767,501038.0,Suistamo,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,767.0,767.0
+773,501039.0,Suojärvi,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,773.0,773.0
+782,501041.0,Säkkijärvi,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,782.0,782.0
+843,501042.0,Terijoki,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,843.0,843.0
+897,501044.0,Uusikirkko,,,Uusikirkko Viip,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,897.0,897.0
+907,501045.0,Vahviala,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,907.0,907.0
+910,501046.0,Valkjärvi,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,910.0,910.0
+930,501048.0,Viipurin mlk,Viborg lk,Viipuri mlk,Wiipuri mlk,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,929.0,929.0
+938,501049.0,Vuoksela,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,938.0,938.0
+939,501050.0,Vuoksenranta,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,939.0,939.0
+991,501051.0,Äyräpää,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,991.0,991.0
+412,601022.0,Lavansaari,,,,Viipurin lääni,Viborgs län,Island_Ceded,0.0,412.0,412.0
+745,601034.0,Seisakari,,,Seiskari,Viipurin lääni,Viborgs län,Island_Ceded,0.0,745.0,745.0
+780,601040.0,Suursaari,,,,Viipurin lääni,Viborgs län,Island_Ceded,0.0,780.0,780.0
+862,601043.0,Tytärsaari,,,,Viipurin lääni,Viborgs län,Island_Ceded,0.0,862.0,862.0
+591,701026.0,Petsamo,,,,Lapin lääni,Lapplans län,Petsamo_Ceded,0.0,591.0,591.0
+104,104.0,Huopalahti,,,,Uudenmaan lääni,Nylands län,Remain,1.0,91.0,91.0
+110,31057.0,Hämeenlinnan mlk,,,,Hämeen lääni,Tavastehus län,Remain,0.0,109.0,109.0
+294,294.0,Kulosaaren huvilakaupunki,,Brändön huvilakaupunki,Kulosaari,Uudenmaan lääni,Nylands län,Remain,0.0,91.0,91.0
+307,11307.0,Kuusisto,,,Kuusluoto,Turun ja Porin lääni,Turun ja Porin lääni,Remain,0.0,307.0,853.0
+486,30486.0,Messukylä,,,,Hämeen lääni,Tavastehus län,Remain,0.0,486.0,837.0
+566,566.0,Oulunkylä,Åggelby,,,Uudenmaan lääni,Nylands län,Remain,0.0,91.0,91.0
+68,68.0,Haaga,,Haaga kla,Haagan kla,Uudenmaan lääni,Nylands län,Remain,1.0,91.0,91.0
+242,91242.0,Kemijärven mlk,,,,Lapin lääni,Lapplans län,Remain,0.0,242.0,242.0
+3,3.0,Akaa,,,,Uudenmaan lääni,Nylands län,Remain,1.0,3.0,864.0
+708,81055.0,Ruukki,,,,Oulun lääni,Uleåborgs län,Remain,1.0,708.0,708.0
+998,501022.0,Tervajärvi,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,998.0,998.0
+321,501026.0,Kyyrölä,,,,Viipurin lääni,Viborgs län,Viipuri_Ceded,0.0,321.0,321.0
+995,11109.0,Hangon mlk,Hangö lk,,Hanko mlk,Uudenmaan lääni,Nylands län,Remain,0.0,78.0,78.0
+508,,Mänttä-Vilppula,,,,,,Remain,1.0,508.0,508.0
+322,,Kemiönsaari,Kimitoön,,,,,Remain,0.0,322.0,322.0
+710,,Raasepori,Raseborg,Mustio,,,,Remain,1.0,710.0,710.0
+790,,Sastamala,,,,,,Remain,1.0,790.0,790.0
+791,,Siikalatva,,,,,,Remain,0.0,791.0,791.0
+754,,Anjalankoski,,,,,,Remain,0.0,754.0,754.0
+988,,Äetsä,,,,,,Remain,0.0,988.0,988.0
