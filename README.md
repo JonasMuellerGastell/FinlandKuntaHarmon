@@ -20,6 +20,8 @@ If you find any mistakes in the code or the underlying data, or would like to co
 			|_ TransitionLong
 				|_ ...
 			|_ ...
+	|_ FromScratch
+		|__ ...
 
 ## Module
 All scripts and programs live here   
@@ -130,6 +132,8 @@ The LongVersion{year1}{year2}.csv files can also be used to harmonize population
 
 'Helper' contains utility files (.csv and .pickle) that are used by the scripts to minimize computation time
 
+## FromScratch
+This folder contains code routines that produce the translation files and helper files for a given set of population totals and moves information. 
 
 ## Acknowledgements
 This project is a collaborative project with a humongous number of dedicated academic contributors. I could not have created the scripts and routines here without the generous contributions of data, time, and money of all of my collaborators and research assistants. All errors remain my own.
