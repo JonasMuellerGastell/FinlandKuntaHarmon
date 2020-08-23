@@ -73,17 +73,13 @@ dfPop['Rel'] = dfPop['id'].apply(lambda x: str({x: 1}))
 
 
 
-def Main(inyear, outyear, varsin, karel = 'd'):
+def Main(inyear, outyear, varsin):
 	import numpy as np
 	import pandas as pd
 
 	global transitions
-	global transitionsK
 
-	if karel == 'k':
-		transitionsUse = transitionsK
-	else:
-		transitionsUse = transitions
+	transitionsUse = transitions
 		
 	inyear = int(inyear)
 	outyear = int(outyear)

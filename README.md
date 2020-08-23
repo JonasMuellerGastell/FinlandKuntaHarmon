@@ -17,8 +17,8 @@ If you find any mistakes in the code or the underlying data, or would like to co
 		|_Helper
 			|_ ...
 		|_TransitionFiles
-			|_ TransitionLong
-				|_ ...
+			|_ ...
+		|_ TransitionLong
 			|_ ...
 	|_ FromScratch
 		|__ ...
@@ -113,7 +113,8 @@ All data used by the scripts and all additional data provided for convenience an
 		netchgM	netchgW	netchgTot: total change across births, deaths, in- and out-migration  men, women, total (when immigration is not recorded, this number does NOT add up to births and deaths -- it also contains the net of the two, due to how the original data was digitized from the paper documents)
 		
 
-'TransitionFiles' contains the Excel files in which the raw transition dictionaries are stored, 'TransitionLong' contains the long-form csv's that could be read and used in Stata, for example, to perform manual harmonizations. 
+'TransitionFiles' contains the Excel files in which the raw transition dictionaries are stored, 
+'TransitionLong' contains the long-form csv's that could be read and used in Stata, for example, to perform manual harmonizations. 
 	
 	|_TransitionFiles
 		|_ {Year1}{Year2}Transition.xlsx
@@ -121,12 +122,12 @@ All data used by the scripts and all additional data provided for convenience an
 			Abs: dictionary with pairs (id of a source kunta in year1) and (% of the source kunta population year1 present in id target kunta in year2)
 			Rel: dictionary with pairs (id of a source kunta in year1) and (% of the target kunta population in year2 that originates from source kunta)
 		|_ ...
-		|_TransitionLong
-			|_LongVersion{year1}{year2}.csv
-				idTarget: id of kunta in year2
-				idSource: if od kunta in year1 that 'sends' population to kunta target
-				ValueAbs: % of source kunta in year1 present in target kunta in year2
-				ValueRel: % of target kunta population in year1 that stems from source kunta
+	|_TransitionLong
+		|_LongVersion{year1}{year2}.csv
+			idTarget: id of kunta in year2
+			idSource: if od kunta in year1 that 'sends' population to kunta target
+			ValueAbs: % of source kunta in year1 present in target kunta in year2
+			ValueRel: % of target kunta population in year1 that stems from source kunta
 The LongVersion{year1}{year2}.csv files can also be used to harmonize population without the use of the harmonizer.py file. E.g., in Stata, read the file (import delimited ... ), and then merge (merge m:1) with your data file that you would like to harmonize, on idTarget, then perform a (series of) egen command(s) to sum-multiply your source data with the ValueAbs or ValueRel columns to obtain your final data (after dropping duplicate rows)
 
 

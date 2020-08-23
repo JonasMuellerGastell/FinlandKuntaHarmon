@@ -7,23 +7,21 @@ Created on Thu Jun 25 10:21:38 2020
 """
 
 import pandas as pd
-import numpy as np
-
-import sys
+# import numpy as np
+# import sys
 
 
 
 def read(year1, year2, f):
-	crossf = f + 'Data/TransitionFiles/'
-	xwalk = pd.read_excel(crossf + f'{year1}{year2}Translation.xlsx')
+	xwalk = pd.read_excel(f + f'Transitions/{year1}{year2}Translation.xlsx')
 	xwalk['Abs'] = xwalk['Abs'].apply(eval)
 	xwalk['Rel'] = xwalk['Rel'].apply(eval)
 	return xwalk
 
 def makeXWDF(year1, year2, f):
-	crossf = f + 'Data/TransitionFiles/'
+	f = f + 'Data/'
 	try:
-		xw2 = pd.read_csv(crossf + f'TransitionLong/LongVersion{year1}{year2}.csv', encoding='utf-8')
+		xw2 = pd.read_csv(f + f'TransitionsLong/LongVersion{year1}{year2}.csv', encoding='utf-8')
 	except:
 		xw = read(year1,year2, f)
 		xw2 = pd.DataFrame( columns = ['idTarget', 'idSource', 'ValueAbs', 'ValueRel'])
@@ -38,7 +36,7 @@ def makeXWDF(year1, year2, f):
 			dfT['idTarget'] = i
 			xw2 = xw2.append(dfT, sort=True)
 		xw2 = xw2[['idTarget', 'idSource', 'ValueAbs', 'ValueRel']]
-		xw2.to_csv(crossf + f'TransitionLong/LongVersion{year1}{year2}.csv', index=False, encoding='utf-8')
+		xw2.to_csv(f + f'TransitionsLong/LongVersion{year1}{year2}.csv', index=False, encoding='utf-8')
 	return xw2
 		
 		
