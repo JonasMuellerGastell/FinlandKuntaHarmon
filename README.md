@@ -97,20 +97,16 @@ All data used by the scripts and all additional data provided for convenience an
 		grouperAll: kunta-koodi, but heuristically merging kunta's that saw significant population transfers, MLKs with KLAs, and Helsinki capital region
 	
 	|_Population1880_1974.csv
-	A time series of relevant demographic variables for all kuntas in Finland 1880 to 1974. 
+	A time series of the populaton variables necessary for the module for all kuntas in Finland 1880 to 1974. 
 	All data processing and harmonization steps are detailed in the paper: \\\\ 
-	The original digitization of data pre 1914 does not include detailed immigration numbers, data processing or data post 1938 has not yet been completed and thus only total population is given here, not births, deaths, nor immigration numbers. 
-	Data before 1930s is aggregated up from Parishes, rather than directly taken from kunta boundaries, which means accuracy before 1930 is likely lower, in particular for population totals.
+	Data before 1930s is aggregated up from Parishes, rather than directly taken from kunta boundaries, which means accuracy before 1930 is likely lower.
 
 		kunta: kunta name
 		code: kunta-koodi
 		year: year of observation
-		PopInterpol: interpolated population number (see paper) pre 1940, recorded population number post 1940
-		birthsM, birthsW, birthsTot: births men, women, total
-		deathsM, deathsW, deathsTot: deaths men, women, total
-		inmigM,	inmigW,	inmigTot: in-migration  men, women, total (not always digitized, then 0)
-		outmigM	outmigW	outmigTot: out-migration  men, women, total (not always digitized, then 0)
-		netchgM	netchgW	netchgTot: total change across births, deaths, in- and out-migration  men, women, total (when immigration is not recorded, this number does NOT add up to births and deaths -- it also contains the net of the two, due to how the original data was digitized from the paper documents)
+		PopulationEstimate: estimate of total population present in the municipality (decennial census years: as recorded (present) population; from 1951 on: as listed in the publications; other years: interpolated using net recorded changes)
+		MenEstimate: estimate of male population present
+		WomenEstimate: estimate of female population present
 		
 
 'TransitionFiles' contains the Excel files in which the raw transition dictionaries are stored, 
