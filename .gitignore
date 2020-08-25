@@ -4,7 +4,7 @@ Data/FullDemographics1880_1974.csv
 makefile
 
 
-
+.lock*
 
 
 # Mac/OSX
