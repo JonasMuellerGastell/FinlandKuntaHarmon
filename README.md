@@ -21,7 +21,7 @@ If you find any mistakes in the code or the underlying data, or would like to co
 		|_ TransitionLong
 			|_ ...
 	|_ FromScratch
-		|__ ...
+		|_ ...
 
 ## Module
 All scripts and programs live here   
@@ -29,8 +29,8 @@ All scripts and programs live here
 ### code_linker.py
 This file provides a utility to match kunta names with the modern kunta-koodi system employed by Statistics Finland. 
 
-	findCodes(df, names, province=False, urban=False,  yearvar = False, 
-	          verbose=False, suggestFixes = False, 
+	findCodes(df, names, province = False, urban = False,  yearvar = False, 
+	          verbose = False, suggestFixes = False, 
 		  path = '[your path]FinlandKuntaHarmon/Data/')
 				  
 		df: the pre-loaded pandas data-frame in which you would like to link names, needs to contain a column with kunta-names
@@ -96,7 +96,7 @@ All data used by the scripts and all additional data provided for convenience an
 		grouperMLK: kunta-koodi, but assigning MLKs the same code as their KLA
 		grouperAll: kunta-koodi, but heuristically merging kunta's that saw significant population transfers, MLKs with KLAs, and Helsinki capital region
 	
-	|_Population1880_1974.csv
+	|_Demographics1880_1974.csv
 	A time series of the populaton variables necessary for the module for all kuntas in Finland 1880 to 1974. 
 	All data processing and harmonization steps are detailed in the paper: \\\\ 
 	Data before 1930s is aggregated up from Parishes, rather than directly taken from kunta boundaries, which means accuracy before 1930 is likely lower.
