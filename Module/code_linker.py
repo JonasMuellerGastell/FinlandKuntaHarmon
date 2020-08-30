@@ -10,9 +10,12 @@ import pandas as pd
 import numpy as np
 import pickle
 
-def doImports(path):	
+def doImports(path, basic):	
 	dicIndex = pickle.load(open(path + 'Helper/YearCodeIndex.p', 'rb'))
-	kuntas = pd.read_csv(path + 'kuntacodes_utf8.csv', encoding='utf-8')
+	if basic:
+		kuntas = pd.read_csv(path + 'kuntacodes_basic.csv', encoding='utf-8')
+	else:
+		kuntas = pd.read_csv(path + 'kuntacodes_utf8.csv', encoding='utf-8')
 	return dicIndex, kuntas
 
 def extract(x, target):
@@ -52,7 +55,7 @@ def suggestion(code, year, yearIndex,  path, ):
 
 	elif year > minMax[1]:
 		print(minMax)
-		transition = pd.read_excel(path + f'TransitionFiles/{minMax[1]}{minMax[1]+1}Translation.xlsx')		
+		transition = pd.read_excel(path + f'Transitions/{minMax[1]}{minMax[1]+1}Translation.xlsx')		
 		transition['Contains'] = transition['Abs'].apply(lambda x: extract(x, code))
 		d = transition.loc[transition.Contains != 0, ['id', 'Contains']]
 		print(asdict(d)	)
@@ -67,7 +70,7 @@ def suggestion(code, year, yearIndex,  path, ):
 		return maxId
 	elif year < minMax[0]:
 		print(minMax)
-		transition = pd.read_excel(path + f'TransitionFiles/{minMax[0]-1}{minMax[0]}Translation.xlsx')		
+		transition = pd.read_excel(path + f'Transitions/{minMax[0]-1}{minMax[0]}Translation.xlsx')		
 		d = eval(transition.loc[transition.id == code, ['Rel']].iloc[0, 0])
 		print(d)
 		a = list(d.values())
@@ -162,7 +165,7 @@ def urbanChecker(df, kuntas):
 	
 
 def findCodes(df, names, province=False, urban=False,  yearvar = False, 
-			   verbose=False, suggestFixes = False, 
+			   verbose=False, suggestFixes = False, basic=False,
 			   path = '/home/jonasmg/Documents/FinlandKuntaHarmon/Data/'):
 	assert type(names) in [str, list, dict]
 	if type(names) == str:
@@ -185,7 +188,7 @@ def findCodes(df, names, province=False, urban=False,  yearvar = False,
 		urbanVar = names.get('urban')
 		nameVar = names['name']
 
-	dicIndex, kuntas = doImports(path)
+	dicIndex, kuntas = doImports(path, basic)
 
 	if province and urban:
 		k = 0

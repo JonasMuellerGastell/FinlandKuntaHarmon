@@ -13,6 +13,7 @@ If you find any mistakes in the code or the underlying data, or would like to co
 	|_ Data
 		|_AllMoves.csv
 		|_kuntacodes_utf8.csv
+		|_kuntacodes_basic.csv
 		|_Population1880_1974.csv
 		|_Helper
 			|_ ...
@@ -30,7 +31,7 @@ All scripts and programs live here
 This file provides a utility to match kunta names with the modern kunta-koodi system employed by Statistics Finland. 
 
 	findCodes(df, names, province = False, urban = False,  yearvar = False, 
-	          verbose = False, suggestFixes = False, 
+	          verbose = False, basic = False, suggestFixes = False, 
 		  path = '[your path]FinlandKuntaHarmon/Data/')
 				  
 		df: the pre-loaded pandas data-frame in which you would like to link names, needs to contain a column with kunta-names
@@ -39,6 +40,8 @@ This file provides a utility to match kunta names with the modern kunta-koodi sy
 		urban: bool, should urban/rural indicator be used to help?
 		yearvar: bool, string, or integer; should the program attempt to check the matched list of names agains the population data file for the given year to identify kuntas who did not exist (in the population tables) in the given year? If so, include either the column name that contains the year or the year to be checked as an integer
 		suggestFixes: bool, should the program make suggestions for what re-namings should occur to get non-anachronistic matches? 
+		verbose: bool, controls level of print output, if True will report number of matches for specific municipalities and set of unmatched names 
+		basic: bool, if True, load kunta names in all lower case and with special characters simplifed to {aeou}, if False load normal names
 		path: string, path to the data necessary to run the module
 	output: data-frame with an additional column 'code' containing kunta-coodi, or this data-frame and a dictionary of suggestions (see above)
 
@@ -95,6 +98,9 @@ All data used by the scripts and all additional data provided for convenience an
 		Urban: indicator whether the kunta is in kunta or maalaiskunta part of 1950 table
 		grouperMLK: kunta-koodi, but assigning MLKs the same code as their KLA
 		grouperAll: kunta-koodi, but heuristically merging kunta's that saw significant population transfers, MLKs with KLAs, and Helsinki capital region
+
+	|_kuntacodes_basic.csv
+	same as above, but with all names in lower case and with heurisitc replacement of special characters to {aeio}
 	
 	|_Demographics1880_1974.csv
 	A time series of the populaton variables necessary for the module for all kuntas in Finland 1880 to 1974. 

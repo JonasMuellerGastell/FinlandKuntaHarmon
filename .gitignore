@@ -2,6 +2,7 @@
 Graphs/
 Data/FullDemographics1880_1974.csv
 makefile
+makepdffile
 
 
 .lock*
